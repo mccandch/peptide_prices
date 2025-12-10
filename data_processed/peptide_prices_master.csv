@@ -1,579 +1,663 @@
-vendor,product_name,spec_raw,price_usd,dose_mg_per_vial,vials_per_kit,total_mg_per_kit,price_per_mg,source_file,peptide_key
-HYB,BAC water,10ml/vial x 10vials,8.0,,10,,,HYB-Price List - Overview.pdf,BAC WATER
-HYB,AA water,3ml/vial x 10vials,10.0,,10,,,HYB-Price List - Overview.pdf,AA WATER
-HYB,HGH,10iu/vial x 10vials,50.0,,10,,,HYB-Price List - Overview.pdf,HGH
-HYB,HGH,15iu/vial x 10vials,75.0,,10,,,HYB-Price List - Overview.pdf,HGH
-HYB,HGH,24iu/vial x 10vials,100.0,,10,,,HYB-Price List - Overview.pdf,HGH
-HYB,HGH,36iu/vial x 10vials,145.0,,10,,,HYB-Price List - Overview.pdf,HGH
-HYB,HGH Frag (176-191),5mg/vial x 10vials,80.0,5.0,10,50.0,1.6,HYB-Price List - Overview.pdf,HGH FRAG 176-191
-HYB,HMG,75iu/vial x 10vials,65.0,,10,,,HYB-Price List - Overview.pdf,HMG
-HYB,HCG,5000iu/vial x 10vials,70.0,,10,,,HYB-Price List - Overview.pdf,HCG
-HYB,HCG,10000iu/vial x 10vials,130.0,,10,,,HYB-Price List - Overview.pdf,HCG
-HYB,Semaglutide,5mg/vial x 10vials,48.0,5.0,10,50.0,0.96,HYB-Price List - Overview.pdf,SEMAGLUTIDE
-HYB,Semaglutide,10mg/vial x 10vials,58.0,10.0,10,100.0,0.58,HYB-Price List - Overview.pdf,SEMAGLUTIDE
-HYB,Semaglutide,15mg/vial x 10vials,78.0,15.0,10,150.0,0.52,HYB-Price List - Overview.pdf,SEMAGLUTIDE
-HYB,Semaglutide,20mg/vial x 10vials,88.0,20.0,10,200.0,0.44,HYB-Price List - Overview.pdf,SEMAGLUTIDE
-HYB,Semaglutide,30mg/vial x 10vials,110.0,30.0,10,300.0,0.36666666666666664,HYB-Price List - Overview.pdf,SEMAGLUTIDE
-HYB,Tirzepatide,5mg/vial x 10vials,45.0,5.0,10,50.0,0.9,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,10mg/vial x 10vials,65.0,10.0,10,100.0,0.65,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,15mg/vial x 10vials,70.0,15.0,10,150.0,0.4666666666666667,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,20mg/vial x 10vials,80.0,20.0,10,200.0,0.4,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,30mg/vial x 10vials,110.0,30.0,10,300.0,0.36666666666666664,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,40mg/vial x 10vials,150.0,40.0,10,400.0,0.375,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,50mg/vial x 10vials,180.0,50.0,10,500.0,0.36,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,60mg/vial x 10vials,210.0,60.0,10,600.0,0.35,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Tirzepatide,100mg/vial x 10vials,330.0,100.0,10,1000.0,0.33,HYB-Price List - Overview.pdf,TIRZEPATIDE
-HYB,Retatrutide,5mg/vial x 10vials,70.0,5.0,10,50.0,1.4,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,10mg/vial x 10vials,100.0,10.0,10,100.0,1.0,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,15mg/vial x 10vials,135.0,15.0,10,150.0,0.9,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,20mg/vial x 10vials,155.0,20.0,10,200.0,0.775,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,30mg/vial x 10vials,190.0,30.0,10,300.0,0.6333333333333333,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,50mg/vial x 10vials,290.0,50.0,10,500.0,0.58,HYB-Price List - Overview.pdf,RETATRUTIDE
-HYB,Retatrutide,60mg/vial x 10vials,340.0,60.0,10,600.0,0.5666666666666667,HYB-Price List - Overview.pdf,RETATRUTIDE
-HXTNT,Tirzepatide,5mg *10vials,40.0,5.0,10,50.0,0.8,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,10mg *10vials,50.0,10.0,10,100.0,0.5,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,15mg *10vials,60.0,15.0,10,150.0,0.4,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,20mg *10vials,70.0,20.0,10,200.0,0.35,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,30mg *10vials,86.0,30.0,10,300.0,0.2866666666666667,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,40mg *10vials,110.0,40.0,10,400.0,0.275,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,45mg *10vials,120.0,45.0,10,450.0,0.26666666666666666,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,50mg *10vials,135.0,50.0,10,500.0,0.27,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Tirzepatide,60mg *10vials,158.0,60.0,10,600.0,0.2633333333333333,HXTNT-Lucy-price list.pdf,TIRZEPATIDE
-HXTNT,Retatrutide,5mg *10vials,55.0,5.0,10,50.0,1.1,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,10mg *10vials,80.0,10.0,10,100.0,0.8,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,15mg *10vials,95.0,15.0,10,150.0,0.6333333333333333,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,20mg *10vials,120.0,20.0,10,200.0,0.6,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,30mg *10vials,157.0,30.0,10,300.0,0.5233333333333333,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,40mg *10vials,195.0,40.0,10,400.0,0.4875,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,50mg *10vials,230.0,50.0,10,500.0,0.46,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Retatrutide,60mg *10vials,270.0,60.0,10,600.0,0.45,HXTNT-Lucy-price list.pdf,RETATRUTIDE
-HXTNT,Semaglutide,2mg *10vials,30.0,2.0,10,20.0,1.5,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Semaglutide,5mg *10vials,35.0,5.0,10,50.0,0.7,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Semaglutide,10mg *10vials,45.0,10.0,10,100.0,0.45,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Semaglutide,15mg *10vials,60.0,15.0,10,150.0,0.4,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Semaglutide,20mg *10vials,70.0,20.0,10,200.0,0.35,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Semaglutide,30mg *10vials,90.0,30.0,10,300.0,0.3,HXTNT-Lucy-price list.pdf,SEMAGLUTIDE
-HXTNT,Epithalon,10mg*10vials,46.0,10.0,10,100.0,0.46,HXTNT-Lucy-price list.pdf,EPITHALON
-HXTNT,Epithalon,50mg*10vials,120.0,50.0,10,500.0,0.24,HXTNT-Lucy-price list.pdf,EPITHALON
-HXTNT,MT-1,10mg*10vials,40.0,10.0,10,100.0,0.4,HXTNT-Lucy-price list.pdf,MT-1
-HXTNT,MT-2 (Melanotan 2 Acetate),10mg*10vials,40.0,10.0,10,100.0,0.4,HXTNT-Lucy-price list.pdf,MT-2 MELANOTAN 2 ACETATE
-HXTNT,PT-141,10mg*10vials,50.0,10.0,10,100.0,0.5,HXTNT-Lucy-price list.pdf,PT-141
-HXTNT,DSIP,5mg*10vials,32.0,5.0,10,50.0,0.64,HXTNT-Lucy-price list.pdf,DSIP
-HXTNT,DSIP,10mg*10vials,58.0,10.0,10,100.0,0.58,HXTNT-Lucy-price list.pdf,DSIP
-HXTNT,DSIP,15mg*10vials,75.0,15.0,10,150.0,0.5,HXTNT-Lucy-price list.pdf,DSIP
-HXTNT,Selank,5mg*10vials,37.0,5.0,10,50.0,0.74,HXTNT-Lucy-price list.pdf,SELANK
-HXTNT,Selank,10mg*10vials,55.0,10.0,10,100.0,0.55,HXTNT-Lucy-price list.pdf,SELANK
-HXTNT,Pinealon,10mg*10vials,43.0,10.0,10,100.0,0.43,HXTNT-Lucy-price list.pdf,PINEALON
-HXTNT,Pinealon,20mg*10vials,65.0,20.0,10,200.0,0.325,HXTNT-Lucy-price list.pdf,PINEALON
-HXTNT,BPC157,5mg*10vials,40.0,5.0,10,50.0,0.8,HXTNT-Lucy-price list.pdf,BPC157
-HXTNT,BPC157,10mg*10vials,60.0,10.0,10,100.0,0.6,HXTNT-Lucy-price list.pdf,BPC157
-HXTNT,BPC157,15mg*10vials,75.0,15.0,10,150.0,0.5,HXTNT-Lucy-price list.pdf,BPC157
-HXTNT,BPC157,20mg*10vials,90.0,20.0,10,200.0,0.45,HXTNT-Lucy-price list.pdf,BPC157
-HXTNT,BPC 5mg + TB 5mg,10mg*10vials,75.0,10.0,10,100.0,0.75,HXTNT-Lucy-price list.pdf,BPC 5MG TB 5MG
-HXTNT,BPC 10mg + TB 10mg,10mg*10vials,145.0,10.0,10,100.0,1.45,HXTNT-Lucy-price list.pdf,BPC 10MG TB 10MG
-HXTNT,Semax,5mg*10vials,37.0,5.0,10,50.0,0.74,HXTNT-Lucy-price list.pdf,SEMAX
-HXTNT,Semax,10mg*10vials,55.0,10.0,10,100.0,0.55,HXTNT-Lucy-price list.pdf,SEMAX
-HXTNT,SS-31,10mg*10vials,65.0,10.0,10,100.0,0.65,HXTNT-Lucy-price list.pdf,SS-31
-HXTNT,SS-31,50mg*10vials,270.0,50.0,10,500.0,0.54,HXTNT-Lucy-price list.pdf,SS-31
-HXTNT,GHRP-2 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,HXTNT-Lucy-price list.pdf,GHRP-2 ACETATE
-HXTNT,GHRP-2 Acetate,10mg*10vials,46.0,10.0,10,100.0,0.46,HXTNT-Lucy-price list.pdf,GHRP-2 ACETATE
-HXTNT,GHRP-6 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,HXTNT-Lucy-price list.pdf,GHRP-6 ACETATE
-HXTNT,GHRP-6 Acetate,10mg*10vials,46.0,10.0,10,100.0,0.46,HXTNT-Lucy-price list.pdf,GHRP-6 ACETATE
-HXTNT,CJC-1295 Whitout DAC,2mg*10vials,40.0,2.0,10,20.0,2.0,HXTNT-Lucy-price list.pdf,CJC-1295 WHITOUT DAC
-HXTNT,CJC-1295 Whitout DAC,5mg*10vials,68.0,5.0,10,50.0,1.36,HXTNT-Lucy-price list.pdf,CJC-1295 WHITOUT DAC
-HXTNT,CJC-1295 Whitout DAC,10mg*10vials,128.0,10.0,10,100.0,1.28,HXTNT-Lucy-price list.pdf,CJC-1295 WHITOUT DAC
-HXTNT,CJC-1295 without DAC 5mg + IPA 5mg,10mg*10vials,75.0,10.0,10,100.0,0.75,HXTNT-Lucy-price list.pdf,CJC-1295 WITHOUT DAC 5MG IPA 5MG
-HXTNT,CJC-1295 With DAC,2mg*10vials,58.0,2.0,10,20.0,2.9,HXTNT-Lucy-price list.pdf,CJC-1295 WITH DAC
-HXTNT,CJC-1295 With DAC,5mg*10vials,135.0,5.0,10,50.0,2.7,HXTNT-Lucy-price list.pdf,CJC-1295 WITH DAC
-HXTNT,TB500(Thymosin B4 Acetate）,5mg*10vials,68.0,5.0,10,50.0,1.36,HXTNT-Lucy-price list.pdf,TB500 THYMOSIN B4 ACETATE
-HXTNT,TB500(Thymosin B4 Acetate）,10mg*10vials,120.0,10.0,10,100.0,1.2,HXTNT-Lucy-price list.pdf,TB500 THYMOSIN B4 ACETATE
-HXTNT,Sermorelin,5mg*10vials,65.0,5.0,10,50.0,1.3,HXTNT-Lucy-price list.pdf,SERMORELIN
-HXTNT,Sermorelin,10mg*10vials,120.0,10.0,10,100.0,1.2,HXTNT-Lucy-price list.pdf,SERMORELIN
-HXTNT,Hexarelin Acetate,5mg*10vials,65.0,5.0,10,50.0,1.3,HXTNT-Lucy-price list.pdf,HEXARELIN ACETATE
-HXTNT,HCG,10000IU*10vials,110.0,,10,,,HXTNT-Lucy-price list.pdf,HCG
-HXTNT,HCG,5000IU*10vials,60.0,,10,,,HXTNT-Lucy-price list.pdf,HCG
-HXTNT,HMG,75 IU*10vials,50.0,,10,,,HXTNT-Lucy-price list.pdf,HMG
-HXTNT,HGH,10iu*10vials,50.0,,10,,,HXTNT-Lucy-price list.pdf,HGH
-HXTNT,HGH,12iu*10vials,62.0,,10,,,HXTNT-Lucy-price list.pdf,HGH
-HXTNT,HGH,15iu*10vials,70.0,,10,,,HXTNT-Lucy-price list.pdf,HGH
-HXTNT,HGH,24iu*10vials,95.0,,10,,,HXTNT-Lucy-price list.pdf,HGH
-HXTNT,HGH,36iu*10vials,140.0,,10,,,HXTNT-Lucy-price list.pdf,HGH
-HXTNT,IGF-1LR3,0.1mg*10vials,35.0,0.1,10,1.0,35.0,HXTNT-Lucy-price list.pdf,IGF-1LR3
-HXTNT,IGF-1LR3,1mg*10vials,170.0,1.0,10,10.0,17.0,HXTNT-Lucy-price list.pdf,IGF-1LR3
-HXTNT,Tesamorelin,5mg*10vials,85.0,5.0,10,50.0,1.7,HXTNT-Lucy-price list.pdf,TESAMORELIN
-HXTNT,Tesamorelin,10mg*10vials,150.0,10.0,10,100.0,1.5,HXTNT-Lucy-price list.pdf,TESAMORELIN
-HXTNT,Tesamorelin,5mg*10vials,40.0,5.0,10,50.0,0.8,HXTNT-Lucy-price list.pdf,TESAMORELIN
-HXTNT,Tesamorelin,10mg*10vials,60.0,10.0,10,100.0,0.6,HXTNT-Lucy-price list.pdf,TESAMORELIN
-HXTNT,GHK-CU,50mg*10vials,32.0,50.0,10,500.0,0.064,HXTNT-Lucy-price list.pdf,GHK-CU
-HXTNT,GHK-CU,100mg*10vials,45.0,100.0,10,1000.0,0.045,HXTNT-Lucy-price list.pdf,GHK-CU
-HXTNT,AHK-CU,100mg*10vials,50.0,100.0,10,1000.0,0.05,HXTNT-Lucy-price list.pdf,AHK-CU
-HXTNT,KissPeptin-10,5mg*10vials,45.0,5.0,10,50.0,0.9,HXTNT-Lucy-price list.pdf,KISSPEPTIN-10
-HXTNT,KissPeptin-10,10mg*10vials,70.0,10.0,10,100.0,0.7,HXTNT-Lucy-price list.pdf,KISSPEPTIN-10
-HXTNT,Thymalin,10mg*10vials,55.0,10.0,10,100.0,0.55,HXTNT-Lucy-price list.pdf,THYMALIN
-HXTNT,Thymosin Alpha-1,2mg*10vials,42.0,2.0,10,20.0,2.1,HXTNT-Lucy-price list.pdf,THYMOSIN ALPHA-1
-HXTNT,Thymosin Alpha-1,5mg*10vials,75.0,5.0,10,50.0,1.5,HXTNT-Lucy-price list.pdf,THYMOSIN ALPHA-1
-HXTNT,Thymosin Alpha-1,10mg*10vials,140.0,10.0,10,100.0,1.4,HXTNT-Lucy-price list.pdf,THYMOSIN ALPHA-1
-HXTNT,MOTS-c,10mg*10vials,50.0,10.0,10,100.0,0.5,HXTNT-Lucy-price list.pdf,MOTS-C
-HXTNT,MOTS-c,40mg*10vials,150.0,40.0,10,400.0,0.375,HXTNT-Lucy-price list.pdf,MOTS-C
-HXTNT,Glutathione,600mg *10 vials,38.0,600.0,10,6000.0,0.006333333333333333,HXTNT-Lucy-price list.pdf,GLUTATHIONE
-HXTNT,Glutathione,1200mg *10,55.0,1200.0,10,12000.0,0.004583333333333333,HXTNT-Lucy-price list.pdf,GLUTATHIONE
-HXTNT,cerebrolysin,"vials
-60mg *6 vials",42.0,60.0,6,360.0,0.11666666666666667,HXTNT-Lucy-price list.pdf,CEREBROLYSIN
-HXTNT,cagrilintide,5mg *10 vials,88.0,5.0,10,50.0,1.76,HXTNT-Lucy-price list.pdf,CAGRILINTIDE
-HXTNT,cagrilintide,10mg*10vials,145.0,10.0,10,100.0,1.45,HXTNT-Lucy-price list.pdf,CAGRILINTIDE
-HXTNT,FOXO4,10mg*10vials,210.0,10.0,10,100.0,2.1,HXTNT-Lucy-price list.pdf,FOXO4
-HXTNT,Ara-290,10mg*10vials,48.0,10.0,10,100.0,0.48,HXTNT-Lucy-price list.pdf,ARA-290
-HXTNT,Snap-8,10mg*10vials,40.0,10.0,10,100.0,0.4,HXTNT-Lucy-price list.pdf,SNAP-8
-HXTNT,NAD+,100mg*10vials,50.0,100.0,10,1000.0,0.05,HXTNT-Lucy-price list.pdf,NAD
-HXTNT,NAD+,500mg*10vials,70.0,500.0,10,5000.0,0.014,HXTNT-Lucy-price list.pdf,NAD
-HXTNT,Botulinum toxin（肉毒杆菌毒素）,100iu/1vials,170.0,,1,,,HXTNT-Lucy-price list.pdf,BOTULINUM TOXIN
-HXTNT,5-amino-1mq,5mg *10 vials,42.0,5.0,10,50.0,0.84,HXTNT-Lucy-price list.pdf,5-AMINO-1MQ
-HXTNT,Survodutide,10mg*10vials,185.0,10.0,10,100.0,1.85,HXTNT-Lucy-price list.pdf,SURVODUTIDE
-HXTNT,cagrilintide 5mg+Semaglutide 5mg,10mg*10vials,130.0,10.0,10,100.0,1.3,HXTNT-Lucy-price list.pdf,CAGRILINTIDE 5MG SEMAGLUTIDE 5MG
-HXTNT,BPC 157 10mg+GHK-CU 50mg+TB500 10mg,70mg *10 vials,163.0,70.0,10,700.0,0.23285714285714285,HXTNT-Lucy-price list.pdf,BPC 157 10MG GHK-CU 50MG TB500 10MG
-HXTNT,"BPC 157 10mg+GHK-CU 50mg+TB500
-10mg+KPV 10mg",80mg*10vials,195.0,80.0,10,800.0,0.24375,HXTNT-Lucy-price list.pdf,BPC 157 10MG GHK-CU 50MG TB500 10MG KPV 10MG
-HXTNT,Lipo c,10ml*10vials,75.0,,10,,,HXTNT-Lucy-price list.pdf,LIPO C
-HXTNT,VIP5,5mg *10 vials,65.0,5.0,10,50.0,1.3,HXTNT-Lucy-price list.pdf,VIP5
-HXTNT,VIP10,10mg*10vials,120.0,10.0,10,100.0,1.2,HXTNT-Lucy-price list.pdf,VIP10
-HXTNT,SLU-PP-332,5mg*10vials,95.0,5.0,10,50.0,1.9,HXTNT-Lucy-price list.pdf,SLU-PP-332
-HXTNT,LYSINE-PROLINE-VALINE,5mg *10 vials,35.0,5.0,10,50.0,0.7,HXTNT-Lucy-price list.pdf,LYSINE-PROLINE-VALINE
-HXTNT,LYSINE-PROLINE-VALINE,10mg*10vials,48.0,10.0,10,100.0,0.48,HXTNT-Lucy-price list.pdf,LYSINE-PROLINE-VALINE
-HXTNT,LL37,5mg*10vials,65.0,5.0,10,50.0,1.3,HXTNT-Lucy-price list.pdf,LL37
-HXTNT,B12,1mg*10vials,35.0,1.0,10,10.0,3.5,HXTNT-Lucy-price list.pdf,B12
-HXTNT,Lemon Bottle,10mg*10vials,55.0,10.0,10,100.0,0.55,HXTNT-Lucy-price list.pdf,LEMON BOTTLE
-HXTNT,Oxytocin Acetate,5mg*10vials,38.0,5.0,10,50.0,0.76,HXTNT-Lucy-price list.pdf,OXYTOCIN ACETATE
-HXTNT,Oxytocin Acetate,10mg*10vials,52.0,10.0,10,100.0,0.52,HXTNT-Lucy-price list.pdf,OXYTOCIN ACETATE
-HXTNT,Mazdutide,5mg*10vials,90.0,5.0,10,50.0,1.8,HXTNT-Lucy-price list.pdf,MAZDUTIDE
-HXTNT,Mazdutide,10mg*10vials,165.0,10.0,10,100.0,1.65,HXTNT-Lucy-price list.pdf,MAZDUTIDE
-Violet,MT-1,10mg*10vials,40.0,10.0,10,100.0,0.4,violet-list.pdf,MT-1
-Violet,MT-2 (Melanotan 2 Acetate),10mg*10vials,40.0,10.0,10,100.0,0.4,violet-list.pdf,MT-2 MELANOTAN 2 ACETATE
-Violet,PT-141,10mg*10vials,50.0,10.0,10,100.0,0.5,violet-list.pdf,PT-141
-Violet,DSIP,5mg*10vials,32.0,5.0,10,50.0,0.64,violet-list.pdf,DSIP
-Violet,DSIP,10mg*10vials,58.0,10.0,10,100.0,0.58,violet-list.pdf,DSIP
-Violet,DSIP,15mg*10vials,75.0,15.0,10,150.0,0.5,violet-list.pdf,DSIP
-Violet,oxytocin,5mg*10vials,38.0,5.0,10,50.0,0.76,violet-list.pdf,OXYTOCIN
-Violet,oxytocin,10mg*10vials,52.0,10.0,10,100.0,0.52,violet-list.pdf,OXYTOCIN
-Violet,Selank,5mg*10vials,37.0,5.0,10,50.0,0.74,violet-list.pdf,SELANK
-Violet,Selank,10mg*10vials,55.0,10.0,10,100.0,0.55,violet-list.pdf,SELANK
-Violet,Epithalon,10mg*10vials,46.0,10.0,10,100.0,0.46,violet-list.pdf,EPITHALON
-Violet,Epithalon,50mg*10vials,120.0,50.0,10,500.0,0.24,violet-list.pdf,EPITHALON
-Violet,Pinealon,10mg*10vials,43.0,10.0,10,100.0,0.43,violet-list.pdf,PINEALON
-Violet,Pinealon,20mg*10vials,65.0,20.0,10,200.0,0.325,violet-list.pdf,PINEALON
-Violet,BPC157,5mg*10vials,40.0,5.0,10,50.0,0.8,violet-list.pdf,BPC157
-Violet,BPC157,10mg*10vials,60.0,10.0,10,100.0,0.6,violet-list.pdf,BPC157
-Violet,BPC157,15mg*10vials,75.0,15.0,10,150.0,0.5,violet-list.pdf,BPC157
-Violet,BPC157,20mg*10vials,90.0,20.0,10,200.0,0.45,violet-list.pdf,BPC157
-Violet,BPC 5mg + TB 5mg,10mg*10vials,75.0,10.0,10,100.0,0.75,violet-list.pdf,BPC 5MG TB 5MG
-Violet,BPC 10mg + TB 10mg,10mg*10vials,145.0,10.0,10,100.0,1.45,violet-list.pdf,BPC 10MG TB 10MG
-Violet,Semax,5mg*10vials,37.0,5.0,10,50.0,0.74,violet-list.pdf,SEMAX
-Violet,Semax,10mg*10vials,55.0,10.0,10,100.0,0.55,violet-list.pdf,SEMAX
-Violet,Semaglutide,5mg*10vials,35.0,5.0,10,50.0,0.7,violet-list.pdf,SEMAGLUTIDE
-Violet,Semaglutide,10mg*10vials,45.0,10.0,10,100.0,0.45,violet-list.pdf,SEMAGLUTIDE
-Violet,Semaglutide,15mg*10vials,60.0,15.0,10,150.0,0.4,violet-list.pdf,SEMAGLUTIDE
-Violet,Semaglutide,20mg*10vials,70.0,20.0,10,200.0,0.35,violet-list.pdf,SEMAGLUTIDE
-Violet,Semaglutide,30mg*10vials,90.0,30.0,10,300.0,0.3,violet-list.pdf,SEMAGLUTIDE
-Violet,SS-31,10mg*10vials,65.0,10.0,10,100.0,0.65,violet-list.pdf,SS-31
-Violet,SS-31,50mg*10vials,270.0,50.0,10,500.0,0.54,violet-list.pdf,SS-31
-Violet,Tirzepatide,5mg*10vials,40.0,5.0,10,50.0,0.8,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,10mg*10vials,50.0,10.0,10,100.0,0.5,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,15mg*10vials,60.0,15.0,10,150.0,0.4,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,20mg*10vials,70.0,20.0,10,200.0,0.35,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,30mg*10vials,85.0,30.0,10,300.0,0.2833333333333333,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,40mg*10vials,110.0,40.0,10,400.0,0.275,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,45mg*10vials,120.0,45.0,10,450.0,0.26666666666666666,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,50mg*10vials,135.0,50.0,10,500.0,0.27,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,60mg *10vials,158.0,60.0,10,600.0,0.2633333333333333,violet-list.pdf,TIRZEPATIDE
-Violet,Tirzepatide,100mg*10vials,240.0,100.0,10,1000.0,0.24,violet-list.pdf,TIRZEPATIDE
-Violet,GHRP-2 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,violet-list.pdf,GHRP-2 ACETATE
-Violet,GHRP-2 Acetate,10mg*10vials,46.0,10.0,10,100.0,0.46,violet-list.pdf,GHRP-2 ACETATE
-Violet,GHRP-6 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,violet-list.pdf,GHRP-6 ACETATE
-Violet,GHRP-6 Acetate,10mg*10vials,46.0,10.0,10,100.0,0.46,violet-list.pdf,GHRP-6 ACETATE
-Violet,CJC-1295 Whitout DAC,2mg*10vials,40.0,2.0,10,20.0,2.0,violet-list.pdf,CJC-1295 WHITOUT DAC
-Violet,CJC-1295 Whitout DAC,5mg*10vials,68.0,5.0,10,50.0,1.36,violet-list.pdf,CJC-1295 WHITOUT DAC
-Violet,CJC-1295 Whitout DAC,10mg*10vials,128.0,10.0,10,100.0,1.28,violet-list.pdf,CJC-1295 WHITOUT DAC
-Violet,CJC-1295 without DAC 5mg + IPA 5mg,10mg*10vials,75.0,10.0,10,100.0,0.75,violet-list.pdf,CJC-1295 WITHOUT DAC 5MG IPA 5MG
-Violet,CJC-1295 With DAC,2mg*10vials,58.0,2.0,10,20.0,2.9,violet-list.pdf,CJC-1295 WITH DAC
-Violet,CJC-1295 With DAC,5mg*10vials,135.0,5.0,10,50.0,2.7,violet-list.pdf,CJC-1295 WITH DAC
-Violet,TB500(Thymosin B4 Acetate）,5mg*10vials,68.0,5.0,10,50.0,1.36,violet-list.pdf,TB500 THYMOSIN B4 ACETATE
-Violet,TB500(Thymosin B4 Acetate）,10mg*10vials,120.0,10.0,10,100.0,1.2,violet-list.pdf,TB500 THYMOSIN B4 ACETATE
-Violet,Sermorelin,5mg*10vials,65.0,5.0,10,50.0,1.3,violet-list.pdf,SERMORELIN
-Violet,Sermorelin,10mg*10vials,120.0,10.0,10,100.0,1.2,violet-list.pdf,SERMORELIN
-Violet,Hexarelin Acetate,5mg*10vials,65.0,5.0,10,50.0,1.3,violet-list.pdf,HEXARELIN ACETATE
-Violet,HCG,10000IU*10vials,110.0,,10,,,violet-list.pdf,HCG
-Violet,HCG,5000IU*10vials,60.0,,10,,,violet-list.pdf,HCG
-Violet,HMG,75 IU*10vials,50.0,,10,,,violet-list.pdf,HMG
-Violet,HGH,10iu*10vials,50.0,,10,,,violet-list.pdf,HGH
-Violet,HGH,12iu*10vials,62.0,,10,,,violet-list.pdf,HGH
-Violet,HGH,15iu*10vials,70.0,,10,,,violet-list.pdf,HGH
-Violet,HGH,24iu*10vials,95.0,,10,,,violet-list.pdf,HGH
-Violet,HGH,36iu*10vials,140.0,,10,,,violet-list.pdf,HGH
-Violet,IGF-1LR3,0.1mg*10vials,35.0,0.1,10,1.0,35.0,violet-list.pdf,IGF-1LR3
-Violet,IGF-1LR3,1mg*10vials,170.0,1.0,10,10.0,17.0,violet-list.pdf,IGF-1LR3
-Violet,Tesamorelin,5mg*10vials,85.0,5.0,10,50.0,1.7,violet-list.pdf,TESAMORELIN
-Violet,Tesamorelin,10mg*10vials,150.0,10.0,10,100.0,1.5,violet-list.pdf,TESAMORELIN
-Violet,Tesamorelin,5mg*10vials,40.0,5.0,10,50.0,0.8,violet-list.pdf,TESAMORELIN
-Violet,Tesamorelin,10mg*10vials,60.0,10.0,10,100.0,0.6,violet-list.pdf,TESAMORELIN
-Violet,GHK-CU,50mg*10vials,32.0,50.0,10,500.0,0.064,violet-list.pdf,GHK-CU
-Violet,GHK-CU,100mg*10vials,45.0,100.0,10,1000.0,0.045,violet-list.pdf,GHK-CU
-Violet,AHK-CU,100mg*10vials,50.0,100.0,10,1000.0,0.05,violet-list.pdf,AHK-CU
-Violet,KissPeptin-10,5mg*10vials,45.0,5.0,10,50.0,0.9,violet-list.pdf,KISSPEPTIN-10
-Violet,KissPeptin-10,10mg*10vials,70.0,10.0,10,100.0,0.7,violet-list.pdf,KISSPEPTIN-10
-Violet,Thymalin,10mg*10vials,55.0,10.0,10,100.0,0.55,violet-list.pdf,THYMALIN
-Violet,Thymosin Alpha-1,2mg*10vials,42.0,2.0,10,20.0,2.1,violet-list.pdf,THYMOSIN ALPHA-1
-Violet,Thymosin Alpha-1,5mg*10vials,75.0,5.0,10,50.0,1.5,violet-list.pdf,THYMOSIN ALPHA-1
-Violet,Thymosin Alpha-1,10mg*10vials,140.0,10.0,10,100.0,1.4,violet-list.pdf,THYMOSIN ALPHA-1
-Violet,MOTS-c,10mg*10vials,50.0,10.0,10,100.0,0.5,violet-list.pdf,MOTS-C
-Violet,MOTS-c,40mg*10vials,150.0,40.0,10,400.0,0.375,violet-list.pdf,MOTS-C
-Violet,Retatrutide,5mg*10vials,55.0,5.0,10,50.0,1.1,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,10mg*10vials,80.0,10.0,10,100.0,0.8,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,15mg*10vials,95.0,15.0,10,150.0,0.6333333333333333,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,20mg*10vials,120.0,20.0,10,200.0,0.6,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,30mg*10vials,157.0,30.0,10,300.0,0.5233333333333333,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,40mg*10vials,195.0,40.0,10,400.0,0.4875,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,50mg*10vials,230.0,50.0,10,500.0,0.46,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,60mg *10vials,270.0,60.0,10,600.0,0.45,violet-list.pdf,RETATRUTIDE
-Violet,Retatrutide,1200mg *10 vials,55.0,1200.0,10,12000.0,0.004583333333333333,violet-list.pdf,RETATRUTIDE
-Violet,cerebrolysin,60mg *6 vials,42.0,60.0,6,360.0,0.11666666666666667,violet-list.pdf,CEREBROLYSIN
-Violet,cagrilintide,5mg *10 vials,88.0,5.0,10,50.0,1.76,violet-list.pdf,CAGRILINTIDE
-Violet,cagrilintide,10mg*10vials,145.0,10.0,10,100.0,1.45,violet-list.pdf,CAGRILINTIDE
-Violet,FOXO4,10mg*10vials,210.0,10.0,10,100.0,2.1,violet-list.pdf,FOXO4
-Violet,Ara-290,10mg*10vials,48.0,10.0,10,100.0,0.48,violet-list.pdf,ARA-290
-Violet,Snap-8,10mg*10vials,40.0,10.0,10,100.0,0.4,violet-list.pdf,SNAP-8
-Violet,Mazdutide,5mg *10 vials,90.0,5.0,10,50.0,1.8,violet-list.pdf,MAZDUTIDE
-Violet,Mazdutide,10mg*10vials,165.0,10.0,10,100.0,1.65,violet-list.pdf,MAZDUTIDE
-Violet,NAD+,100mg*10vials,50.0,100.0,10,1000.0,0.05,violet-list.pdf,NAD
-Violet,NAD+,250mg*10vials,60.0,250.0,10,2500.0,0.024,violet-list.pdf,NAD
-Violet,NAD+,500mg*10vials,70.0,500.0,10,5000.0,0.014,violet-list.pdf,NAD
-Violet,NAD+,1000mg*10vials,100.0,1000.0,10,10000.0,0.01,violet-list.pdf,NAD
-Violet,AOD,5mg *10 vials,80.0,5.0,10,50.0,1.6,violet-list.pdf,AOD
-Violet,5-amino-1mq,5mg *10 vials,42.0,5.0,10,50.0,0.84,violet-list.pdf,5-AMINO-1MQ
-Violet,5-amino-1mq,10mg*10vials,56.0,10.0,10,100.0,0.56,violet-list.pdf,5-AMINO-1MQ
-Violet,5-amino-1mq,50mg*10vials,95.0,50.0,10,500.0,0.19,violet-list.pdf,5-AMINO-1MQ
-Violet,Survodutide,10mg*10vials,185.0,10.0,10,100.0,1.85,violet-list.pdf,SURVODUTIDE
-Violet,cagrilintide 5mg+Semaglutide 5mg,10mg*10vials,130.0,10.0,10,100.0,1.3,violet-list.pdf,CAGRILINTIDE 5MG SEMAGLUTIDE 5MG
-Violet,BPC 157 10mg+GHK-CU 50mg+TB500 10mg,70mg *10 vials,163.0,70.0,10,700.0,0.23285714285714285,violet-list.pdf,BPC 157 10MG GHK-CU 50MG TB500 10MG
-Violet,BPC 157 10mg+GHK-CU 50mg+TB500 10mg+KPV 10mg,80mg*10vials,195.0,80.0,10,800.0,0.24375,violet-list.pdf,BPC 157 10MG GHK-CU 50MG TB500 10MG KPV 10MG
-Violet,Lipo c,10ml*10vials,75.0,,10,,,violet-list.pdf,LIPO C
-Violet,VIP5,5mg *10 vials,65.0,5.0,10,50.0,1.3,violet-list.pdf,VIP5
-Violet,VIP10,10mg*10vials,120.0,10.0,10,100.0,1.2,violet-list.pdf,VIP10
-Violet,SLU-PP-332,5mg*10vials,95.0,5.0,10,50.0,1.9,violet-list.pdf,SLU-PP-332
-Violet,LYSINE-PROLINE-VALINE,5mg *10 vials,35.0,5.0,10,50.0,0.7,violet-list.pdf,LYSINE-PROLINE-VALINE
-Violet,LYSINE-PROLINE-VALINE,10mg*10vials,48.0,10.0,10,100.0,0.48,violet-list.pdf,LYSINE-PROLINE-VALINE
-Violet,LL37,5mg*10vials,65.0,5.0,10,50.0,1.3,violet-list.pdf,LL37
-Violet,B12,0.1mg*1ml*10vials,7.0,0.1,10,1.0,7.0,violet-list.pdf,B12
-Violet,Lemon Bottle,10mg*10vials,55.0,10.0,10,100.0,0.55,violet-list.pdf,LEMON BOTTLE
-ZJ,Tirzepatide,5mg*10vials,48.0,5.0,10,50.0,0.96,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,10mg*10vials,68.0,10.0,10,100.0,0.68,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,15mg*10vials,80.0,15.0,10,150.0,0.5333333333333333,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,20mg*10vials,95.0,20.0,10,200.0,0.475,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,30mg*10vials,120.0,30.0,10,300.0,0.4,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,40mg*10vials,150.0,40.0,10,400.0,0.375,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,50mg*10vials,165.0,50.0,10,500.0,0.33,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,60mg*10vials,210.0,60.0,10,600.0,0.35,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,70mg*10vials,225.0,70.0,10,700.0,0.32142857142857145,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,80mg*10vials,255.0,80.0,10,800.0,0.31875,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,90mg*10vials,275.0,90.0,10,900.0,0.3055555555555556,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,100mg*10vials,315.0,100.0,10,1000.0,0.315,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Tirzepatide,120mg*10vials,330.0,120.0,10,1200.0,0.275,ZJlist123.pdf,TIRZEPATIDE
-ZJ,Semaglutide,5mg*10vials,46.0,5.0,10,50.0,0.92,ZJlist123.pdf,SEMAGLUTIDE
-ZJ,Semaglutide,10mg*10vials,70.0,10.0,10,100.0,0.7,ZJlist123.pdf,SEMAGLUTIDE
-ZJ,Semaglutide,15mg*10vials,86.0,15.0,10,150.0,0.5733333333333334,ZJlist123.pdf,SEMAGLUTIDE
-ZJ,Semaglutide,20mg*10vials,100.0,20.0,10,200.0,0.5,ZJlist123.pdf,SEMAGLUTIDE
-ZJ,Semaglutide,30mg*10vials,120.0,30.0,10,300.0,0.4,ZJlist123.pdf,SEMAGLUTIDE
-ZJ,Retatrutide,5mg*10vials,77.0,5.0,10,50.0,1.54,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,10mg*10vials,120.0,10.0,10,100.0,1.2,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,15mg*10vials,155.0,15.0,10,150.0,1.0333333333333334,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,20mg*10vials,170.0,20.0,10,200.0,0.85,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,30mg*10vials,210.0,30.0,10,300.0,0.7,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,40mg*10vials,325.0,40.0,10,400.0,0.8125,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,50mg*10vials,335.0,50.0,10,500.0,0.67,ZJlist123.pdf,RETATRUTIDE
-ZJ,Retatrutide,60mg*10vials,340.0,60.0,10,600.0,0.5666666666666667,ZJlist123.pdf,RETATRUTIDE
-ZJ,Cagrilintide,5mg*10vials,118.0,5.0,10,50.0,2.36,ZJlist123.pdf,CAGRILINTIDE
-ZJ,Cagrilintide,10mg*10vials,225.0,10.0,10,100.0,2.25,ZJlist123.pdf,CAGRILINTIDE
-ZJ,Lipo-c,10ml*10vials,80.0,,10,,,ZJlist123.pdf,LIPO-C
-ZJ,Lemon Bottle,10ml*10vials,87.0,,10,,,ZJlist123.pdf,LEMON BOTTLE
-ZJ,L-carnitine 600 mg,10ml*10vials,40.0,600.0,10,6000.0,0.006666666666666667,ZJlist123.pdf,L-CARNITINE 600 MG
-ZJ,"Glow
-(TB10mg+BPC-157
-10mg+GHK50mg)",70mg*10vials,220.0,70.0,10,700.0,0.3142857142857143,ZJlist123.pdf,GLOW TB10MG BPC-157 10MG GHK50MG
-ZJ,"TB10mg+BPC-157
-10mg+GHK50mg+kpv10mg",80mg*10vials,245.0,80.0,10,800.0,0.30625,ZJlist123.pdf,TB10MG BPC-157 10MG GHK50MG KPV10MG
-ZJ,TB500,2mg*10vials,45.0,2.0,10,20.0,2.25,ZJlist123.pdf,TB500
-ZJ,TB500,5mg*10vials,85.0,5.0,10,50.0,1.7,ZJlist123.pdf,TB500
-ZJ,TB500,10mg*10vials,165.0,10.0,10,100.0,1.65,ZJlist123.pdf,TB500
-ZJ,BPC 157,5mg*10vials,41.0,5.0,10,50.0,0.82,ZJlist123.pdf,BPC 157
-ZJ,BPC 157,10mg*10vials,65.0,10.0,10,100.0,0.65,ZJlist123.pdf,BPC 157
-ZJ,BPC 5mg + TB 5mg,10mg*10vials,110.0,10.0,10,100.0,1.1,ZJlist123.pdf,BPC 5MG TB 5MG
-ZJ,BPC 10mg + TB 10mg,20mg*10vials,210.0,20.0,10,200.0,1.05,ZJlist123.pdf,BPC 10MG TB 10MG
-ZJ,"CJC-1295 without DAC
-5mg + IPA 5mg",10mg*10vials,118.0,10.0,10,100.0,1.18,ZJlist123.pdf,CJC-1295 WITHOUT DAC 5MG IPA 5MG
-ZJ,PT 141,10mg*10vials,62.0,10.0,10,100.0,0.62,ZJlist123.pdf,PT 141
-ZJ,NAD+,100mg*10vials,48.0,100.0,10,1000.0,0.048,ZJlist123.pdf,NAD
-ZJ,NAD+,500mg*10vials,95.0,500.0,10,5000.0,0.019,ZJlist123.pdf,NAD
-ZJ,"Cagrilintide
-5mg+Semaglutide5mg",10mg*10vials,170.0,10.0,10,100.0,1.7,ZJlist123.pdf,CAGRILINTIDE 5MG SEMAGLUTIDE5MG
-ZJ,CJC 1295 without DAC,2mg*10vials,40.0,2.0,10,20.0,2.0,ZJlist123.pdf,CJC 1295 WITHOUT DAC
-ZJ,CJC 1295 without DAC,5mg*10vials,90.0,5.0,10,50.0,1.8,ZJlist123.pdf,CJC 1295 WITHOUT DAC
-ZJ,CJC 1295 without DAC,10mg*10vials,180.0,10.0,10,100.0,1.8,ZJlist123.pdf,CJC 1295 WITHOUT DAC
-ZJ,CJC 1295 with DAC,2mg*10vials,78.0,2.0,10,20.0,3.9,ZJlist123.pdf,CJC 1295 WITH DAC
-ZJ,CJC 1295 with DAC,5mg*10vials,185.0,5.0,10,50.0,3.7,ZJlist123.pdf,CJC 1295 WITH DAC
-ZJ,MOTS-C,10mg*10vials,68.0,10.0,10,100.0,0.68,ZJlist123.pdf,MOTS-C
-ZJ,MOTS-C,40mg*10vials,215.0,40.0,10,400.0,0.5375,ZJlist123.pdf,MOTS-C
-ZJ,AOD 9604,2mg*10vials,58.0,2.0,10,20.0,2.9,ZJlist123.pdf,AOD 9604
-ZJ,AOD 9604,5mg*10vials,105.0,5.0,10,50.0,2.1,ZJlist123.pdf,AOD 9604
-ZJ,Epitalon,10mg*10vials,38.0,10.0,10,100.0,0.38,ZJlist123.pdf,EPITALON
-ZJ,Epitalon,50mg*10vials,170.0,50.0,10,500.0,0.34,ZJlist123.pdf,EPITALON
-ZJ,HGH 191AA(Somatropin),10iu*10vials,49.0,,10,,,ZJlist123.pdf,HGH 191AA SOMATROPIN
-ZJ,HGH 191AA(Somatropin),12iu*10vials,65.0,,10,,,ZJlist123.pdf,HGH 191AA SOMATROPIN
-ZJ,HGH 191AA(Somatropin),15iu*10vials,80.0,,10,,,ZJlist123.pdf,HGH 191AA SOMATROPIN
-ZJ,HGH 191AA(Somatropin),24iu*10vials,115.0,,10,,,ZJlist123.pdf,HGH 191AA SOMATROPIN
-ZJ,HCG,5000iu*10vials,83.0,,10,,,ZJlist123.pdf,HCG
-ZJ,HCG,10000iu*10vials,135.0,,10,,,ZJlist123.pdf,HCG
-ZJ,HMG,75iu*10vials,68.0,,10,,,ZJlist123.pdf,HMG
-ZJ,Mazduttide,10mg*10vials,185.0,10.0,10,100.0,1.85,ZJlist123.pdf,MAZDUTTIDE
-ZJ,Survodutide,10mg*10vials,310.0,10.0,10,100.0,3.1,ZJlist123.pdf,SURVODUTIDE
-ZJ,GHK-CU,50mg*10vials,37.0,50.0,10,500.0,0.074,ZJlist123.pdf,GHK-CU
-ZJ,GHK-CU,100mg*10vials,63.0,100.0,10,1000.0,0.063,ZJlist123.pdf,GHK-CU
-ZJ,MT-(Melanotan2Acetate ),10mg*10vials,50.0,10.0,10,100.0,0.5,ZJlist123.pdf,MT- MELANOTAN2ACETATE
-ZJ,Melatonin,10mg*10vials,70.0,10.0,10,100.0,0.7,ZJlist123.pdf,MELATONIN
-ZJ,Melanotan 1,10mg*10vials,65.0,10.0,10,100.0,0.65,ZJlist123.pdf,MELANOTAN 1
-ZJ,Ipamorelin,5mg*10vials,40.0,5.0,10,50.0,0.8,ZJlist123.pdf,IPAMORELIN
-ZJ,Ipamorelin,10mg*10vials,78.0,10.0,10,100.0,0.78,ZJlist123.pdf,IPAMORELIN
-ZJ,Adipotide,5mg*10vials,145.0,5.0,10,50.0,2.9,ZJlist123.pdf,ADIPOTIDE
-ZJ,Semax,5mg*10vials,49.0,5.0,10,50.0,0.98,ZJlist123.pdf,SEMAX
-ZJ,Semax,10mg*10vials,78.0,10.0,10,100.0,0.78,ZJlist123.pdf,SEMAX
-ZJ,Sermorelin,5mg*10vials,72.0,5.0,10,50.0,1.44,ZJlist123.pdf,SERMORELIN
-ZJ,Sermorelin,10mg*10vials,150.0,10.0,10,100.0,1.5,ZJlist123.pdf,SERMORELIN
-ZJ,Tesamorelin,2mg*10vials,58.0,2.0,10,20.0,2.9,ZJlist123.pdf,TESAMORELIN
-ZJ,Tesamorelin,5mg*10vials,108.0,5.0,10,50.0,2.16,ZJlist123.pdf,TESAMORELIN
-ZJ,Tesamorelin,10mg*10vials,210.0,10.0,10,100.0,2.1,ZJlist123.pdf,TESAMORELIN
-ZJ,DSIP,5mg*10vials,46.0,5.0,10,50.0,0.92,ZJlist123.pdf,DSIP
-ZJ,DSIP,10mg*10vials,90.0,10.0,10,100.0,0.9,ZJlist123.pdf,DSIP
-ZJ,Gonadorelin,2mg*10vials,40.0,2.0,10,20.0,2.0,ZJlist123.pdf,GONADORELIN
-ZJ,Hexarelin Acetate,2mg*10vials,39.0,2.0,10,20.0,1.95,ZJlist123.pdf,HEXARELIN ACETATE
-ZJ,Hexarelin Acetate,5mg*10vials,85.0,5.0,10,50.0,1.7,ZJlist123.pdf,HEXARELIN ACETATE
-ZJ,IGF-1 LR3,0.1mg*10vials,45.0,0.1,10,1.0,45.0,ZJlist123.pdf,IGF-1 LR3
-ZJ,IGF-1 LR3,1mg*10vials,215.0,1.0,10,10.0,21.5,ZJlist123.pdf,IGF-1 LR3
-ZJ,Kisspeptin-10,5mg*10vials,62.0,5.0,10,50.0,1.24,ZJlist123.pdf,KISSPEPTIN-10
-ZJ,Kisspeptin-10,10mg*10vials,125.0,10.0,10,100.0,1.25,ZJlist123.pdf,KISSPEPTIN-10
-ZJ,Oxytocin Acetate,2mg*10vials,40.0,2.0,10,20.0,2.0,ZJlist123.pdf,OXYTOCIN ACETATE
-ZJ,Oxytocin Acetate,5mg*10vials,65.0,5.0,10,50.0,1.3,ZJlist123.pdf,OXYTOCIN ACETATE
-ZJ,Selank,5mg*10vials,49.0,5.0,10,50.0,0.98,ZJlist123.pdf,SELANK
-ZJ,Selank,10mg*10vials,78.0,10.0,10,100.0,0.78,ZJlist123.pdf,SELANK
-ZJ,Thymosin alpha-1,5mg*10vials,105.0,5.0,10,50.0,2.1,ZJlist123.pdf,THYMOSIN ALPHA-1
-ZJ,Thymosin alpha-1,10mg*10vials,170.0,10.0,10,100.0,1.7,ZJlist123.pdf,THYMOSIN ALPHA-1
-ZJ,Thymalin,10mg*10vials,65.0,10.0,10,100.0,0.65,ZJlist123.pdf,THYMALIN
-ZJ,Gonadorelin Acetate,2mg*10vials,40.0,2.0,10,20.0,2.0,ZJlist123.pdf,GONADORELIN ACETATE
-ZJ,AICAR,50mg*10vials,65.0,50.0,10,500.0,0.13,ZJlist123.pdf,AICAR
-ZJ,SS-31,10mg*10vials,95.0,10.0,10,100.0,0.95,ZJlist123.pdf,SS-31
-ZJ,SS-31,50mg*10vials,380.0,50.0,10,500.0,0.76,ZJlist123.pdf,SS-31
-ZJ,GHRP-2 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,ZJlist123.pdf,GHRP-2 ACETATE
-ZJ,GHRP-2 Acetate,10mg*10vials,50.0,10.0,10,100.0,0.5,ZJlist123.pdf,GHRP-2 ACETATE
-ZJ,GHRP-6 Acetate,5mg*10vials,30.0,5.0,10,50.0,0.6,ZJlist123.pdf,GHRP-6 ACETATE
-ZJ,GHRP-6 Acetate,10mg*10vials,50.0,10.0,10,100.0,0.5,ZJlist123.pdf,GHRP-6 ACETATE
-ZJ,Dermorphin,5mg*10vials,35.0,5.0,10,50.0,0.7,ZJlist123.pdf,DERMORPHIN
-ZJ,5 amino 1mq.,5mg*10vials,75.0,5.0,10,50.0,1.5,ZJlist123.pdf,5 AMINO 1MQ
-ZJ,5 amino 1mq.,50mg*10vials,130.0,50.0,10,500.0,0.26,ZJlist123.pdf,5 AMINO 1MQ
-ZJ,Snap-8,10mg*10vials,45.0,10.0,10,100.0,0.45,ZJlist123.pdf,SNAP-8
-ZJ,LL37,5mg*10vials,95.0,5.0,10,50.0,1.9,ZJlist123.pdf,LL37
-ZJ,"Bacteriostaticwater
-containing 0.9% benzyl alcohol.",3ml*10vials,12.0,,10,,,ZJlist123.pdf,BACTERIOSTATICWATER CONTAINING 0 9 BENZYL ALCOHOL
-ZJ,"Bacteriostaticwater
-containing 0.9% benzyl alcohol.",10ml*10vials,12.0,,10,,,ZJlist123.pdf,BACTERIOSTATICWATER CONTAINING 0 9 BENZYL ALCOHOL
-ZJ,Acetic Acid 0.6%,3ml*10vials,10.0,,10,,,ZJlist123.pdf,ACETIC ACID 0 6
-ZJ,Acetic Acid 0.6%,10ml*10vials,11.0,,10,,,ZJlist123.pdf,ACETIC ACID 0 6
-ZJ,Tirzepatide Pen,2mg*1vials,35.0,2.0,1,2.0,17.5,ZJlist123.pdf,TIRZEPATIDE PEN
-ZJ,Tirzepatide Pen,5mg*1vials,45.0,5.0,1,5.0,9.0,ZJlist123.pdf,TIRZEPATIDE PEN
-ZJ,Tirzepatide Pen,10mg*1vials,58.0,10.0,1,10.0,5.8,ZJlist123.pdf,TIRZEPATIDE PEN
-ZJ,Tirzepatide Pen,15mg*1vials,70.0,15.0,1,15.0,4.666666666666667,ZJlist123.pdf,TIRZEPATIDE PEN
-ZJ,KPV,10mg*10vials,80.0,10.0,10,100.0,0.8,ZJlist123.pdf,KPV
-ZJ,VIP,10mg*10vials,185.0,10.0,10,100.0,1.85,ZJlist123.pdf,VIP
-ZJ,FOX04,10mg*10vials,375.0,10.0,10,100.0,3.75,ZJlist123.pdf,FOX04
-ZJ,MGF,2mg*10vials,60.0,2.0,10,20.0,3.0,ZJlist123.pdf,MGF
-ZJ,PEG MGF,2mg*10vials,95.0,2.0,10,20.0,4.75,ZJlist123.pdf,PEG MGF
-ZJ,B12,10ml*10vials,22.0,,10,,,ZJlist123.pdf,B12
-ZJ,SLU PP-332,5mg*10vials,100.0,5.0,10,50.0,2.0,ZJlist123.pdf,SLU PP-332
-ZJ,Bacwater,3ml*10vials,8.0,,10,,,ZJlist123.pdf,BACWATER
-ZJ,Bacwater,10ml*10vials,11.0,,10,,,ZJlist123.pdf,BACWATER
-Mix,All,All,,,10,,,Mix_price-list (3).pdf,ALL
-Mix,Tirze-30mg,Tirze-30mg,90.0,30.0,10,300.0,0.3,Mix_price-list (3).pdf,TIRZE-30MG
-Mix,Tirze-40mg,Tirze-40mg,120.0,40.0,10,400.0,0.3,Mix_price-list (3).pdf,TIRZE-40MG
-Mix,Tirze-60mg,Tirze-60mg,180.0,60.0,10,600.0,0.3,Mix_price-list (3).pdf,TIRZE-60MG
-Mix,Reta-15mg,Reta-15mg,120.0,15.0,10,150.0,0.8,Mix_price-list (3).pdf,RETA-15MG
-Mix,Reta-30mg,Reta-30mg,210.0,30.0,10,300.0,0.7,Mix_price-list (3).pdf,RETA-30MG
-Mix,Reta-50mg,Reta-50mg,310.0,50.0,10,500.0,0.62,Mix_price-list (3).pdf,RETA-50MG
-Mix,Sema-10mg,Sema-10mg,65.0,10.0,10,100.0,0.65,Mix_price-list (3).pdf,SEMA-10MG
-Mix,Klow-80mg,Klow-80mg,175.0,80.0,10,800.0,0.21875,Mix_price-list (3).pdf,KLOW-80MG
-Mix,NAD-500mg,NAD-500mg,75.0,500.0,10,5000.0,0.015,Mix_price-list (3).pdf,NAD-500MG
-Mix,Glow-70mg,Glow-70mg,160.0,70.0,10,700.0,0.22857142857142856,Mix_price-list (3).pdf,GLOW-70MG
-Mix,Cagr-10mg,Cagr-10mg,135.0,10.0,10,100.0,1.35,Mix_price-list (3).pdf,CAGR-10MG
-Mix,Note:,Note:,,,10,,,Mix_price-list (3).pdf,NOTE
-Uther,UK/CA（CA have reship）/EURO/AU/KR/BR,UK/CA（CA have reship）/EURO/AU/KR/BR,50.0,,10,,,Uther_11-26.pdf,UK CA CA HAVE RESHIP EURO AU KR BR
-Uther,RUS/ KAZ,RUS/ KAZ,43.0,,10,,,Uther_11-26.pdf,RUS KAZ
-Uther,THA/MYS/ISL,THA/MYS/ISL,35.0,,10,,,Uther_11-26.pdf,THA MYS ISL
-Uther,Semaglutide 5mg,Semaglutide 5mg,80.0,5.0,10,50.0,1.6,Uther_11-26.pdf,SEMAGLUTIDE 5MG
-Uther,Semaglutide 10mg,Semaglutide 10mg,120.0,10.0,10,100.0,1.2,Uther_11-26.pdf,SEMAGLUTIDE 10MG
-Uther,Semaglutide 20mg,Semaglutide 20mg,170.0,20.0,10,200.0,0.85,Uther_11-26.pdf,SEMAGLUTIDE 20MG
-Uther,Tirzepatide 10mg,Tirzepatide 10mg,150.0,10.0,10,100.0,1.5,Uther_11-26.pdf,TIRZEPATIDE 10MG
-Uther,Tirzepatide 15mg,Tirzepatide 15mg,180.0,15.0,10,150.0,1.2,Uther_11-26.pdf,TIRZEPATIDE 15MG
-Uther,Tirzepatide 30mg,Tirzepatide 30mg,220.0,30.0,10,300.0,0.7333333333333333,Uther_11-26.pdf,TIRZEPATIDE 30MG
-Uther,tirzepatide 45mg,tirzepatide 45mg,240.0,45.0,10,450.0,0.5333333333333333,Uther_11-26.pdf,TIRZEPATIDE 45MG
-Uther,Tirzepatide 60mg,Tirzepatide 60mg,280.0,60.0,10,600.0,0.4666666666666667,Uther_11-26.pdf,TIRZEPATIDE 60MG
-Uther,Tirzepatide 90mg,Tirzepatide 90mg,350.0,90.0,10,900.0,0.3888888888888889,Uther_11-26.pdf,TIRZEPATIDE 90MG
-Uther,Retatrutide 10mg,Retatrutide 10mg,200.0,10.0,10,100.0,2.0,Uther_11-26.pdf,RETATRUTIDE 10MG
-Uther,Retatrutide 20mg,Retatrutide 20mg,300.0,20.0,10,200.0,1.5,Uther_11-26.pdf,RETATRUTIDE 20MG
-Uther,Retatrutide 30mg,Retatrutide 30mg,370.0,30.0,10,300.0,1.2333333333333334,Uther_11-26.pdf,RETATRUTIDE 30MG
-Uther,Retatrutide 40mg,Retatrutide 40mg,450.0,40.0,10,400.0,1.125,Uther_11-26.pdf,RETATRUTIDE 40MG
-Uther,Retatrutide 50mg,Retatrutide 50mg,500.0,50.0,10,500.0,1.0,Uther_11-26.pdf,RETATRUTIDE 50MG
-Uther,Cagrilintide 5mg,Cagrilintide 5mg,150.0,5.0,10,50.0,3.0,Uther_11-26.pdf,CAGRILINTIDE 5MG
-Uther,Cagrilintide 10mg,Cagrilintide 10mg,220.0,10.0,10,100.0,2.2,Uther_11-26.pdf,CAGRILINTIDE 10MG
-Uther,Mazdutide 10mg,Mazdutide 10mg,260.0,10.0,10,100.0,2.6,Uther_11-26.pdf,MAZDUTIDE 10MG
-Uther,Survodutide 10mg,Survodutide 10mg,230.0,10.0,10,100.0,2.3,Uther_11-26.pdf,SURVODUTIDE 10MG
-Uther,L-carnitine 500mg×20ml×10vials （water）,L-carnitine 500mg×20ml×10vials （water）,200.0,500.0,10,5000.0,0.04,Uther_11-26.pdf,L-CARNITINE 500MG 20ML 10VIALS WATER
-Uther,cyanocobalamin vb12 1mg ×10ml×10vials water,cyanocobalamin vb12 1mg ×10ml×10vials water,60.0,121.0,10,1210.0,0.049586776859504134,Uther_11-26.pdf,CYANOCOBALAMIN VB12 1MG 10ML 10VIALS WATER
-Uther,HGH 10IU,HGH 10IU,58.0,,10,,,Uther_11-26.pdf,HGH 10IU
-Uther,IGF-1 LR3 1mg,IGF-1 LR3 1mg,210.0,31.0,10,310.0,0.6774193548387096,Uther_11-26.pdf,IGF-1 LR3 1MG
-Uther,5-Amino-1MQ 50mg（Chloride）,5-Amino-1MQ 50mg（Chloride）,120.0,50.0,10,500.0,0.24,Uther_11-26.pdf,5-AMINO-1MQ 50MG CHLORIDE
-Uther,5-Amino-1MQ 10mg （Chloride）,5-Amino-1MQ 10mg （Chloride）,60.0,10.0,10,100.0,0.6,Uther_11-26.pdf,5-AMINO-1MQ 10MG CHLORIDE
-Uther,Adipotide 10mg,Adipotide 10mg,165.0,10.0,10,100.0,1.65,Uther_11-26.pdf,ADIPOTIDE 10MG
-Uther,VIP 10mg,VIP 10mg,130.0,10.0,10,100.0,1.3,Uther_11-26.pdf,VIP 10MG
-Uther,Bpc 157 10mg,Bpc 157 10mg,50.0,15710.0,10,157100.0,0.00031826861871419476,Uther_11-26.pdf,BPC 157 10MG
-Uther,Bpc 157 20mg,Bpc 157 20mg,90.0,15720.0,10,157200.0,0.0005725190839694657,Uther_11-26.pdf,BPC 157 20MG
-Uther,Bpc 157 40mg,Bpc 157 40mg,175.0,15740.0,10,157400.0,0.0011118170266836086,Uther_11-26.pdf,BPC 157 40MG
-Uther,Tb 500 （tb4）10mg,Tb 500 （tb4）10mg,120.0,10.0,10,100.0,1.2,Uther_11-26.pdf,TB 500 TB4 10MG
-Uther,Abaloparatide 3mg,Abaloparatide 3mg,100.0,3.0,10,30.0,3.3333333333333335,Uther_11-26.pdf,ABALOPARATIDE 3MG
-Uther,Teriparatide 750mcg,Teriparatide 750mcg,75.0,,10,,,Uther_11-26.pdf,TERIPARATIDE 750MCG
-Uther,Aod 9604 5mg,Aod 9604 5mg,110.0,96045.0,10,960450.0,0.0001145296475610391,Uther_11-26.pdf,AOD 9604 5MG
-Uther,Fragment 176–191 5mg,Fragment 176–191 5mg,75.0,1915.0,10,19150.0,0.0039164490861618795,Uther_11-26.pdf,FRAGMENT 176 191 5MG
-Uther,Pt141 10mg,Pt141 10mg,70.0,14110.0,10,141100.0,0.0004961020552799433,Uther_11-26.pdf,PT141 10MG
-Uther,Kisspeptin-10mg,Kisspeptin-10mg,75.0,10.0,10,100.0,0.75,Uther_11-26.pdf,KISSPEPTIN-10MG
-Uther,Epitalon 10mg,Epitalon 10mg,55.0,10.0,10,100.0,0.55,Uther_11-26.pdf,EPITALON 10MG
-Uther,Epitalon 50mg,Epitalon 50mg,200.0,50.0,10,500.0,0.4,Uther_11-26.pdf,EPITALON 50MG
-Uther,Melanotan II 10mg,Melanotan II 10mg,45.0,10.0,10,100.0,0.45,Uther_11-26.pdf,MELANOTAN II 10MG
-Uther,Melanotan I 10mg,Melanotan I 10mg,55.0,10.0,10,100.0,0.55,Uther_11-26.pdf,MELANOTAN I 10MG
-Uther,Cjc-1295 with dac 5mg,Cjc-1295 with dac 5mg,120.0,5.0,10,50.0,2.4,Uther_11-26.pdf,CJC-1295 WITH DAC 5MG
-Uther,Cjc-1295 no dac 10mg,Cjc-1295 no dac 10mg,140.0,10.0,10,100.0,1.4,Uther_11-26.pdf,CJC-1295 NO DAC 10MG
-Uther,Ghrp-6 10mg,Ghrp-6 10mg,50.0,610.0,10,6100.0,0.00819672131147541,Uther_11-26.pdf,GHRP-6 10MG
-Uther,Ghrp-2 10mg,Ghrp-2 10mg,50.0,210.0,10,2100.0,0.023809523809523808,Uther_11-26.pdf,GHRP-2 10MG
-Uther,Tesamorelin 10mg,Tesamorelin 10mg,145.0,10.0,10,100.0,1.45,Uther_11-26.pdf,TESAMORELIN 10MG
-Uther,Tesamorelin 20mg,Tesamorelin 20mg,270.0,20.0,10,200.0,1.35,Uther_11-26.pdf,TESAMORELIN 20MG
-Uther,Mots-c 10mg,Mots-c 10mg,58.0,10.0,10,100.0,0.58,Uther_11-26.pdf,MOTS-C 10MG
-Uther,Mots-c 20mg,Mots-c 20mg,100.0,20.0,10,200.0,0.5,Uther_11-26.pdf,MOTS-C 20MG
-Uther,Motsc-40mg,Motsc-40mg,180.0,40.0,10,400.0,0.45,Uther_11-26.pdf,MOTSC-40MG
-Uther,Ss-31 10mg,Ss-31 10mg,80.0,3110.0,10,31100.0,0.002572347266881029,Uther_11-26.pdf,SS-31 10MG
-Uther,SS-31 30mg,SS-31 30mg,220.0,3130.0,10,31300.0,0.007028753993610224,Uther_11-26.pdf,SS-31 30MG
-Uther,SS-31 50mg,SS-31 50mg,300.0,3150.0,10,31500.0,0.009523809523809525,Uther_11-26.pdf,SS-31 50MG
-Uther,Ipamorelin 10mg,Ipamorelin 10mg,90.0,10.0,10,100.0,0.9,Uther_11-26.pdf,IPAMORELIN 10MG
-Uther,Thymosin Alpha-1 10mg,Thymosin Alpha-1 10mg,145.0,110.0,10,1100.0,0.1318181818181818,Uther_11-26.pdf,THYMOSIN ALPHA-1 10MG
-Uther,Thymulin 20mg,Thymulin 20mg,100.0,20.0,10,200.0,0.5,Uther_11-26.pdf,THYMULIN 20MG
-Uther,Adamax 10mg（1032 da),Adamax 10mg（1032 da),280.0,10.0,10,100.0,2.8,Uther_11-26.pdf,ADAMAX 10MG 1032 DA
-Uther,Semax 10mg,Semax 10mg,60.0,10.0,10,100.0,0.6,Uther_11-26.pdf,SEMAX 10MG
-Uther,Selank 10mg,Selank 10mg,60.0,10.0,10,100.0,0.6,Uther_11-26.pdf,SELANK 10MG
-Uther,Na semax,Na semax,70.0,,10,,,Uther_11-26.pdf,NA SEMAX
-Uther,Na selank,Na selank,70.0,,10,,,Uther_11-26.pdf,NA SELANK
-Uther,"IllumiNeuro（pe10mg+pinealon 10mg+na semax 20mg+ na
-selank 8mg）","IllumiNeuro（pe10mg+pinealon 10mg+na semax 20mg+ na
-selank 8mg）",240.0,10.0,10,100.0,2.4,Uther_11-26.pdf,ILLUMINEURO PE10MG PINEALON 10MG NA SEMAX 20MG NA SELANK 8MG
-Uther,Fox04 10mg,Fox04 10mg,350.0,410.0,10,4100.0,0.08536585365853659,Uther_11-26.pdf,FOX04 10MG
-Uther,Oxytocin 10mg（＜99）,Oxytocin 10mg（＜99）,60.0,10.0,10,100.0,0.6,Uther_11-26.pdf,OXYTOCIN 10MG 99
-Uther,Snap -8 10mg,Snap -8 10mg,40.0,810.0,10,8100.0,0.0049382716049382715,Uther_11-26.pdf,SNAP -8 10MG
-Uther,Dsip 5mg,Dsip 5mg,40.0,5.0,10,50.0,0.8,Uther_11-26.pdf,DSIP 5MG
-Uther,Dsip 10mg,Dsip 10mg,70.0,10.0,10,100.0,0.7,Uther_11-26.pdf,DSIP 10MG
-Uther,BPC 5mg/TB4 5mg blend,BPC 5mg/TB4 5mg blend,85.0,5.0,10,50.0,1.7,Uther_11-26.pdf,BPC 5MG TB4 5MG BLEND
-Uther,bpc 10mg/TB4 10mg blend,bpc 10mg/TB4 10mg blend,150.0,10.0,10,100.0,1.5,Uther_11-26.pdf,BPC 10MG TB4 10MG BLEND
-Uther,bpc 30mg/TB4 30mg blend,bpc 30mg/TB4 30mg blend,300.0,30.0,10,300.0,1.0,Uther_11-26.pdf,BPC 30MG TB4 30MG BLEND
-Uther,Cjc no dac/ipa 5/5mg,Cjc no dac/ipa 5/5mg,95.0,5.0,10,50.0,1.9,Uther_11-26.pdf,CJC NO DAC IPA 5 5MG
-Uther,Cjc 6mg/ipa 11mg blend,Cjc 6mg/ipa 11mg blend,160.0,6.0,10,60.0,2.6666666666666665,Uther_11-26.pdf,CJC 6MG IPA 11MG BLEND
-Uther,tesa 5mg/ipa 5mg blend,tesa 5mg/ipa 5mg blend,110.0,5.0,10,50.0,2.2,Uther_11-26.pdf,TESA 5MG IPA 5MG BLEND
-Uther,tesa 10mg/ipa 3mg blend,tesa 10mg/ipa 3mg blend,165.0,10.0,10,100.0,1.65,Uther_11-26.pdf,TESA 10MG IPA 3MG BLEND
-Uther,GHK-CU 100mg,GHK-CU 100mg,51.0,100.0,10,1000.0,0.051,Uther_11-26.pdf,GHK-CU 100MG
-Uther,GHK-CU 50mg,GHK-CU 50mg,40.0,50.0,10,500.0,0.08,Uther_11-26.pdf,GHK-CU 50MG
-Uther,NAD+500mg buffer ph6-6.5,NAD+500mg buffer ph6-6.5,95.0,500.0,10,5000.0,0.019,Uther_11-26.pdf,NAD 500MG BUFFER PH6-6 5
-Uther,Tb 500 frag 10mg,Tb 500 frag 10mg,70.0,10.0,10,100.0,0.7,Uther_11-26.pdf,TB 500 FRAG 10MG
-Uther,Pnc 27 30mg（this batch 28mg）,Pnc 27 30mg（this batch 28mg）,250.0,2730.0,10,27300.0,0.009157509157509158,Uther_11-26.pdf,PNC 27 30MG THIS BATCH 28MG
-Uther,Ll 37 5mg,Ll 37 5mg,95.0,375.0,10,3750.0,0.025333333333333333,Uther_11-26.pdf,LL 37 5MG
-Uther,KPV 10mg,KPV 10mg,80.0,10.0,10,100.0,0.8,Uther_11-26.pdf,KPV 10MG
-Uther,Kpv 30mg,Kpv 30mg,150.0,30.0,10,300.0,0.5,Uther_11-26.pdf,KPV 30MG
-Uther,Sermorelin 5mg,Sermorelin 5mg,70.0,5.0,10,50.0,1.4,Uther_11-26.pdf,SERMORELIN 5MG
-Uther,GLOW(TB4 10+BP 10+GHK50),GLOW(TB4 10+BP 10+GHK50),210.0,,10,,,Uther_11-26.pdf,GLOW TB4 10 BP 10 GHK50
-Uther,KLOW（TB10+BP10+KP10+GHK50),KLOW（TB10+BP10+KP10+GHK50),240.0,,10,,,Uther_11-26.pdf,KLOW TB10 BP10 KP10 GHK50
-Uther,Pe-22-28 10mg,Pe-22-28 10mg,80.0,2810.0,10,28100.0,0.0028469750889679717,Uther_11-26.pdf,PE-22-28 10MG
-Uther,Ara-290 16mg,Ara-290 16mg,95.0,29016.0,10,290160.0,0.0003274055693410532,Uther_11-26.pdf,ARA-290 16MG
-Uther,Tri-Heal Max （tb4 25mg+bp10mg+kpv10mg）,Tri-Heal Max （tb4 25mg+bp10mg+kpv10mg）,380.0,425.0,10,4250.0,0.08941176470588236,Uther_11-26.pdf,TRI-HEAL MAX TB4 25MG BP10MG KPV10MG
-Uther,tadalafil（Cialis）20mg/100tab,tadalafil（Cialis）20mg/100tab,35.0,20.0,10,200.0,0.175,Uther_11-26.pdf,TADALAFIL CIALIS 20MG 100TAB
-Uther,Slu 100mcg/bam25mg blend 60TABS),Slu 100mcg/bam25mg blend 60TABS),95.0,25.0,10,250.0,0.38,Uther_11-26.pdf,SLU 100MCG BAM25MG BLEND 60TABS
-Uther,HCG 1000 IU GMP（renjian）3ML 10vials,HCG 1000 IU GMP（renjian）3ML 10vials,40.0,,10,,,Uther_11-26.pdf,HCG 1000 IU GMP RENJIAN 3ML 10VIALS
-Uther,HCG 2000 IU GMP（renjian）3ML 10vials,HCG 2000 IU GMP（renjian）3ML 10vials,70.0,,10,,,Uther_11-26.pdf,HCG 2000 IU GMP RENJIAN 3ML 10VIALS
-Uther,HCG 4000 IU GMP（ Livzon）3Ml 10vials,HCG 4000 IU GMP（ Livzon）3Ml 10vials,175.0,,10,,,Uther_11-26.pdf,HCG 4000 IU GMP LIVZON 3ML 10VIALS
-Uther,Glutathione 600mg GMP 10ML 10vials,Glutathione 600mg GMP 10ML 10vials,45.0,600.0,10,6000.0,0.0075,Uther_11-26.pdf,GLUTATHIONE 600MG GMP 10ML 10VIALS
-Uther,Glutathione 1500mg GMP 20ML 10vials,Glutathione 1500mg GMP 20ML 10vials,85.0,1500.0,10,15000.0,0.005666666666666667,Uther_11-26.pdf,GLUTATHIONE 1500MG GMP 20ML 10VIALS
-Uther,HMG 75IU X 10vials GMP,HMG 75IU X 10vials GMP,75.0,,10,,,Uther_11-26.pdf,HMG 75IU X 10VIALS GMP
-Uther,Cerebrolysin 30mg GMP 10ML 10vials,Cerebrolysin 30mg GMP 10ML 10vials,45.0,30.0,10,300.0,0.15,Uther_11-26.pdf,CEREBROLYSIN 30MG GMP 10ML 10VIALS
-Uther,Prostamax 20mg,Prostamax 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,PROSTAMAX 20MG
-Uther,Pinealon 20mg,Pinealon 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,PINEALON 20MG
-Uther,Ovagen 20mg,Ovagen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,OVAGEN 20MG
-Uther,Vesugen 20mg,Vesugen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,VESUGEN 20MG
-Uther,Bronchogen 20mg,Bronchogen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,BRONCHOGEN 20MG
-Uther,Vilon 20mg,Vilon 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,VILON 20MG
-Uther,Cartalax 20mg,Cartalax 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,CARTALAX 20MG
-Uther,Cortagen 20mg,Cortagen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,CORTAGEN 20MG
-Uther,Chonluten 20mg,Chonluten 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,CHONLUTEN 20MG
-Uther,livagen 20mg,livagen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,LIVAGEN 20MG
-Uther,testagen20mg,testagen20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,TESTAGEN20MG
-Uther,cardiogen 20mg,cardiogen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,CARDIOGEN 20MG
-Uther,pancragon 20mg,pancragon 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,PANCRAGON 20MG
-Uther,Thymogen 20mg,Thymogen 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,THYMOGEN 20MG
-Uther,crystagen_ 20mg,crystagen_ 20mg,150.0,20.0,10,200.0,0.75,Uther_11-26.pdf,CRYSTAGEN 20MG
-Uther,Vesilute 20mg （97.78）,Vesilute 20mg （97.78）,130.0,20.0,10,200.0,0.65,Uther_11-26.pdf,VESILUTE 20MG 97 78
-Jeep,NAD+ (Buffered),500mg 10vials/kit,80.0,500.0,10,5000.0,0.016,jeep_manual.csv,NAD BUFFERED
-Jeep,NAD+ (Buffered),1000mg 10vials/kit,110.0,1000.0,10,10000.0,0.011,jeep_manual.csv,NAD BUFFERED
-Jeep,GLOW(CU30+BP10+TB5) mixed,50mg 10vials/kit,155.0,50.0,10,500.0,0.31,jeep_manual.csv,GLOW CU30 BP10 TB5 MIXED
-Jeep,GLOW(CU50+BP10+TB10) mixed,70mg 10vials/kit,180.0,70.0,10,700.0,0.2571428571428571,jeep_manual.csv,GLOW CU50 BP10 TB10 MIXED
-Jeep,Semaglutide,20mg 10vials/kit,100.0,20.0,10,200.0,0.5,jeep_manual.csv,SEMAGLUTIDE
-Jeep,TB-500,10mg 10vials/kit,130.0,10.0,10,100.0,1.3,jeep_manual.csv,TB-500
-Jeep,GHK-CU,50mg 10vials/kit,50.0,50.0,10,500.0,0.1,jeep_manual.csv,GHK-CU
-Jeep,GHK-CU,100mg 10vials/kit,80.0,100.0,10,1000.0,0.08,jeep_manual.csv,GHK-CU
-Jeep,Klow (cu + bpc + tb + kpv) mixed,80mg 10vials/kit,200.0,80.0,10,800.0,0.25,jeep_manual.csv,KLOW CU BPC TB KPV MIXED
-Jeep,BPC-157,10mg 10vials/kit,60.0,10.0,10,100.0,0.6,jeep_manual.csv,BPC-157
-Jeep,Retatrutide,5mg 10vials/kit,80.0,5.0,10,50.0,1.6,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,10mg 10vials/kit,130.0,10.0,10,100.0,1.3,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,15mg 10vials/kit,180.0,15.0,10,150.0,1.2,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,20mg 10vials/kit,208.0,20.0,10,200.0,1.04,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,30mg 10vials/kit,270.0,30.0,10,300.0,0.9,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,40mg 10vials/kit,300.0,40.0,10,400.0,0.75,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,50mg 10vials/kit,340.0,50.0,10,500.0,0.68,jeep_manual.csv,RETATRUTIDE
-Jeep,Retatrutide,60mg 10vials/kit,380.0,60.0,10,600.0,0.6333333333333333,jeep_manual.csv,RETATRUTIDE
-Jeep,Tirzepatide,5mg 10vials/kit,55.0,5.0,10,50.0,1.1,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,10mg 10vials/kit,78.0,10.0,10,100.0,0.78,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,15mg 10vials/kit,98.0,15.0,10,150.0,0.6533333333333333,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,20mg 10vials/kit,108.0,20.0,10,200.0,0.54,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,30mg 10vials/kit,138.0,30.0,10,300.0,0.46,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,40mg 10vials/kit,170.0,40.0,10,400.0,0.425,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,60mg 10vials/kit,250.0,60.0,10,600.0,0.4166666666666667,jeep_manual.csv,TIRZEPATIDE
-Jeep,Tirzepatide,120mg 10vials/kit,450.0,120.0,10,1200.0,0.375,jeep_manual.csv,TIRZEPATIDE
-Jeep,Sermorelin,5mg 10vials/kit,121.0,5.0,10,50.0,2.42,jeep_manual.csv,SERMORELIN
-Jeep,Sermorelin,10mg 10vials/kit,150.0,10.0,10,100.0,1.5,jeep_manual.csv,SERMORELIN
-Jeep,Tesamorelin,5mg 10vials/kit,88.0,5.0,10,50.0,1.76,jeep_manual.csv,TESAMORELIN
-Jeep,Tesamorelin,10mg 10vials/kit,158.0,10.0,10,100.0,1.58,jeep_manual.csv,TESAMORELIN
-Jeep,Cagrilintide,5mg 10vials/kit,110.0,5.0,10,50.0,2.2,jeep_manual.csv,CAGRILINTIDE
-Jeep,Cagrilintide,10mg 10vials/kit,160.0,10.0,10,100.0,1.6,jeep_manual.csv,CAGRILINTIDE
-Jeep,Mots-c,5mg 10vials/kit,75.0,5.0,10,50.0,1.5,jeep_manual.csv,MOTS-C
-Jeep,Mots-c,40mg 10vials/kit,200.0,40.0,10,400.0,0.5,jeep_manual.csv,MOTS-C
-Jeep,Semax,10mg 10vials/kit,65.0,10.0,10,100.0,0.65,jeep_manual.csv,SEMAX
-Jeep,Selank,10mg 10vials/kit,65.0,10.0,10,100.0,0.65,jeep_manual.csv,SELANK
-Jeep,SLU-PP-332,5mg 10vials/kit,55.0,5.0,10,50.0,1.1,jeep_manual.csv,SLU-PP-332
-Jeep,Epithalon,10mg 10vials/kit,55.0,10.0,10,100.0,0.55,jeep_manual.csv,EPITHALON
-Jeep,SS31,10mg 10vials/kit,100.0,10.0,10,100.0,1.0,jeep_manual.csv,SS31
-Jeep,AOD-9604,5mg 10vials/kit,90.0,5.0,10,50.0,1.8,jeep_manual.csv,AOD-9604
-Jeep,PT141,10mg 10vials/kit,70.0,10.0,10,100.0,0.7,jeep_manual.csv,PT141
-Jeep,Ipamorelin,5mg 10vials/kit,45.0,5.0,10,50.0,0.9,jeep_manual.csv,IPAMORELIN
-Jeep,Ipamorelin,10mg 10vials/kit,75.0,10.0,10,100.0,0.75,jeep_manual.csv,IPAMORELIN
-Jeep,snap8,10mg 10vials/kit,70.0,10.0,10,100.0,0.7,jeep_manual.csv,SNAP8
-Jeep,MT-1,10mg 10vials/kit,55.0,10.0,10,100.0,0.55,jeep_manual.csv,MT-1
-Jeep,MT-2,10mg 10vials/kit,55.0,10.0,10,100.0,0.55,jeep_manual.csv,MT-2
-Jeep,CJC 1295(NO DAC),5mg 10vials/kit,90.0,5.0,10,50.0,1.8,jeep_manual.csv,CJC 1295 NO DAC
-Jeep,BB10 (TB5 + BPCS),10mg 10vials/kit,120.0,10.0,10,100.0,1.2,jeep_manual.csv,BB10 TB5 BPCS
-Jeep,KPV,10mg 10vials/kit,55.0,10.0,10,100.0,0.55,jeep_manual.csv,KPV
-Jeep,BACwater,3ml 10vials/kit,10.0,,10,,,jeep_manual.csv,BACWATER
-Jeep,Kisspeptin,10mg 10vials/kit,80.0,10.0,10,100.0,0.8,jeep_manual.csv,KISSPEPTIN
+vendor,product_name,spec_raw,price_usd,dose_mg_per_vial,vials_per_kit,total_mg_per_kit,price_per_mg
+HYB,BAC Water,10ml*10vials,8,10,10,100,0.08
+HYB,AA Water,3ml*10vials,10,3,10,30,0.33
+HYB,HGH,10iu*10vials,50,10,10,100,0.50
+HYB,HGH,15iu*10vials,75,15,10,150,0.50
+HYB,HGH,24iu*10vials,100,24,10,240,0.42
+HYB,HGH,36iu*10vials,145,36,10,360,0.40
+HYB,HGH Frag 176-191,5mg*10vials,80,5,10,50,1.60
+HYB,HMG,75iu*10vials,65,75,10,750,0.09
+HYB,HCG,5000iu*10vials,70,5000,10,50000,0.0014
+HYB,HCG,10000iu*10vials,130,10000,10,100000,0.0013
+HYB,Semaglutide,5mg*10vials,48,5,10,50,0.96
+HYB,Semaglutide,10mg*10vials,58,10,10,100,0.58
+HYB,Semaglutide,15mg*10vials,78,15,10,150,0.52
+HYB,Semaglutide,20mg*10vials,88,20,10,200,0.44
+HYB,Semaglutide,30mg*10vials,110,30,10,300,0.37
+HYB,Tirzepatide,5mg*10vials,45,5,10,50,0.90
+HYB,Tirzepatide,10mg*10vials,65,10,10,100,0.65
+HYB,Tirzepatide,15mg*10vials,70,15,10,150,0.47
+HYB,Tirzepatide,20mg*10vials,80,20,10,200,0.40
+HYB,Tirzepatide,30mg*10vials,110,30,10,300,0.37
+HYB,Tirzepatide,40mg*10vials,150,40,10,400,0.38
+HYB,Tirzepatide,50mg*10vials,180,50,10,500,0.36
+HYB,Tirzepatide,60mg*10vials,210,60,10,600,0.35
+HYB,Tirzepatide,100mg*10vials,330,100,10,1000,0.33
+HYB,Retatrutide,5mg*10vials,70,5,10,50,1.40
+HYB,Retatrutide,10mg*10vials,100,10,10,100,1.00
+HYB,Retatrutide,15mg*10vials,135,15,10,150,0.90
+HYB,Retatrutide,20mg*10vials,155,20,10,200,0.78
+HYB,Retatrutide,30mg*10vials,190,30,10,300,0.63
+HYB,Retatrutide,50mg*10vials,290,50,10,500,0.58
+HYB,Retatrutide,60mg*10vials,340,60,10,600,0.57
+HYB,Cagrilintide,5mg*10vials,90,5,10,50,1.80
+HYB,Cagrilintide,10mg*10vials,140,10,10,100,1.40
+HYB,Cagrilintide,20mg*10vials,245,20,10,200,1.23
+HYB,Cagrilintide+Semaglutide,5mg+5mg*10vials,125,10,10,100,1.25
+HYB,Dulaglutide,5mg*10vials,90,5,10,50,1.80
+HYB,Dulaglutide,10mg*10vials,165,10,10,100,1.65
+HYB,Pramlintide,5mg*10vials,110,5,10,50,2.20
+HYB,Pramlintide,10mg*10vials,195,10,10,100,1.95
+HYB,BPC-157,5mg*10vials,40,5,10,50,0.80
+HYB,BPC-157,10mg*10vials,65,10,10,100,0.65
+HYB,BPC-157,20mg*10vials,120,20,10,200,0.60
+HYB,TB500,5mg*10vials,75,5,10,50,1.50
+HYB,TB500,10mg*10vials,140,10,10,100,1.40
+HYB,TB500,20mg*10vials,200,20,10,200,1.00
+HYB,TB500 Frag,10mg*10vials,90,10,10,100,0.90
+HYB,BPC+TB500,5mg+5mg*10vials,90,10,10,100,0.90
+HYB,BPC+TB500,10mg+10mg*10vials,180,20,10,200,0.90
+HYB,GHK-Cu,50mg*10vials,30,50,10,500,0.06
+HYB,GHK-Cu,100mg*10vials,50,100,10,1000,0.05
+HYB,AHK-Cu,100mg*10vials,80,100,10,1000,0.08
+HYB,GLOW-50,35mg+10mg+5mg*10vials,170,50,10,500,0.34
+HYB,GLOW-70,50mg+10mg+10mg*10vials,200,70,10,700,0.29
+HYB,GLOW-80,50mg+10mg+10mg+10mg*10vials,240,80,10,800,0.30
+HYB,MGF,2mg*10vials,40,2,10,20,2.00
+HYB,PEG-MGF,2mg*10vials,90,2,10,20,4.50
+HYB,Gonadorelin,2mg*10vials,30,2,10,20,1.50
+HYB,Epithalon,10mg*10vials,45,10,10,100,0.45
+HYB,Epithalon,40mg*10vials,135,40,10,400,0.34
+HYB,Epithalon,50mg*10vials,150,50,10,500,0.30
+HYB,Ipamorelin,5mg*10vials,40,5,10,50,0.80
+HYB,Ipamorelin,10mg*10vials,70,10,10,100,0.70
+HYB,Sermorelin,5mg*10vials,70,5,10,50,1.40
+HYB,Sermorelin,10mg*10vials,140,10,10,100,1.40
+HYB,Tesamorelin,5mg*10vials,90,5,10,50,1.80
+HYB,Tesamorelin,10mg*10vials,160,10,10,100,1.60
+HYB,Tesamorelin,20mg*10vials,300,20,10,200,1.50
+HYB,Semax,5mg*10vials,40,5,10,50,0.80
+HYB,Semax,10mg*10vials,65,10,10,100,0.65
+HYB,Semax,30mg*10vials,170,30,10,300,0.57
+HYB,Selank,5mg*10vials,40,5,10,50,0.80
+HYB,Selank,10mg*10vials,65,10,10,100,0.65
+HYB,Selank,30mg*10vials,170,30,10,300,0.57
+HYB,Thymalin,10mg*10vials,70,10,10,100,0.70
+HYB,CJC-1295 DAC,2mg*10vials,75,2,10,20,3.75
+HYB,CJC-1295 DAC,5mg*10vials,150,5,10,50,3.00
+HYB,CJC-1295 no DAC,5mg*10vials,75,5,10,50,1.50
+HYB,CJC-1295 no DAC,10mg*10vials,140,10,10,100,1.40
+HYB,CJC-1295+Ipamorelin,5mg+5mg*10vials,105,10,10,100,1.05
+HYB,Snap-8,10mg*10vials,40,10,10,100,0.40
+HYB,NAD+,100mg*10vials,40,100,10,1000,0.04
+HYB,NAD+,500mg*10vials,80,500,10,5000,0.016
+HYB,NAD+,1000mg*10vials,130,1000,10,10000,0.013
+HYB,GHRP-2,5mg*10vials,30,5,10,50,0.60
+HYB,GHRP-2,10mg*10vials,46,10,10,100,0.46
+HYB,GHRP-6,5mg*10vials,30,5,10,50,0.60
+HYB,GHRP-6,10mg*10vials,46,10,10,100,0.46
+HYB,IGF-DES,1mg*10vials,55,1,10,10,5.50
+HYB,IGF-LR3,0.1mg*10vials,40,0.1,10,1,40.00
+HYB,IGF-LR3,1mg*10vials,200,1,10,10,20.00
+HYB,MOTS-c,10mg*10vials,60,10,10,100,0.60
+HYB,MOTS-c,40mg*10vials,180,40,10,400,0.45
+HYB,DSIP,5mg*10vials,40,5,10,50,0.80
+HYB,DSIP,10mg*10vials,65,10,10,100,0.65
+HYB,DSIP,15mg*10vials,90,15,10,150,0.60
+HYB,LL37,5mg*10vials,100,5,10,50,2.00
+HYB,Oxytocin,5mg*10vials,45,5,10,50,0.90
+HYB,Oxytocin,10mg*10vials,60,10,10,100,0.60
+HYB,Dermorphin,5mg*10vials,55,5,10,50,1.10
+HYB,AOD-9604,5mg*10vials,100,5,10,50,2.00
+HYB,AICAR,50mg*10vials,60,50,10,500,0.12
+HYB,ACE-031,1mg*10vials,80,1,10,10,8.00
+HYB,PT-141,10mg*10vials,65,10,10,100,0.65
+HYB,MT-1,10mg*10vials,50,10,10,100,0.50
+HYB,MT-2,10mg*10vials,50,10,10,100,0.50
+HYB,Melatonin,10mg*10vials,65,10,10,100,0.65
+HYB,Kisspeptin-10,5mg*10vials,50,5,10,50,1.00
+HYB,Kisspeptin-10,10mg*10vials,75,10,10,100,0.75
+HYB,EPO,3000iu*5vials,110,3000,5,15000,0.0073
+HYB,SS-31,10mg*10vials,90,10,10,100,0.90
+HYB,SS-31,50mg*10vials,350,50,10,500,0.70
+HYB,KPV,10mg*10vials,60,10,10,100,0.60
+HYB,PNC-27,5mg*10vials,100,5,10,50,2.00
+HYB,PNC-27,10mg*10vials,170,10,10,100,1.70
+HYB,Glutathione,1500mg*10vials,100,1500,10,15000,0.0067
+HYB,Thymosin Alpha-1,5mg*10vials,90,5,10,50,1.80
+HYB,Thymosin Alpha-1,10mg*10vials,165,10,10,100,1.65
+HYB,Mazdutide,5mg*10vials,100,5,10,50,2.00
+HYB,Mazdutide,10mg*10vials,200,10,10,100,2.00
+HYB,ARA-290,10mg*10vials,70,10,10,100,0.70
+HYB,FOXO4,10mg*10vials,370,10,10,100,3.70
+HYB,VIP,5mg*10vials,85,5,10,50,1.70
+HYB,VIP,10mg*10vials,145,10,10,100,1.45
+HYB,Botulinum toxin,100iu*10vials,155,100,10,1000,0.155
+HYB,Cerebrolysin,60mg*6vials,50,60,6,360,0.14
+HYB,N-Acetyl Epitalon Amidate,5mg*10vials,50,5,10,50,1.00
+HYB,Alprostadil,20mcg*5vials,125,20,5,100,1.25
+HYB,5-Amino-1MQ,5mg*10vials,40,5,10,50,0.80
+HYB,5-Amino-1MQ,10mg*10vials,55,10,10,100,0.55
+HYB,5-Amino-1MQ,50mg*10vials,80,50,10,500,0.16
+HYB,Survodutide,10mg*10vials,250,10,10,100,2.50
+HYB,Pinealon,5mg*10vials,55,5,10,50,1.10
+HYB,Pinealon,10mg*10vials,65,10,10,100,0.65
+HYB,Pinealon,20mg*10vials,100,20,10,200,0.50
+HYB,SLU-PP-322,5mg*10vials,100,5,10,50,2.00
+HYB,Lemon Bottle,10ml*10vials,100,10,10,100,1.00
+HYB,B12,1mg/ml*10vials,33,1,10,10,3.30
+HYB,B12,10mg/ml*10vials,62,10,10,100,0.62
+HYB,Vitamin D3,20000iu/ml*10vials,70,20000,10,200000,0.00035
+HYB,Lipo-C LC120,120mg/ml*10vials,60,120,10,1200,0.05
+HYB,Lipo-B LC216,216mg/ml*10vials,75,216,10,2160,0.03
+HYB,L-Carnitine,500mg/ml*10vials,75,500,10,5000,0.015
+HYB,Lipo-C LC425,425mg/ml*10vials,145,425,10,4250,0.034
+HYB,Lipo-C LC526,526mg/ml*10vials,160,526,10,5260,0.030
+HYB,Super Shred LC553,553mg/ml*10vials,145,553,10,5530,0.026
+HYB,Relaxation PM,226mg/ml*10vials,145,226,10,2260,0.064
+HYB,Super Human Blend,865mg/ml*10vials,145,865,10,8650,0.017
+HYB,Healthy Hair Skin Nails,150.3mg/ml*10vials,145,150.3,10,1503,0.096
+HYB,Lipo-Mino Mix,244.4mg/ml*10vials,100,244.4,10,2444,0.041
+HYB,Immunological Enhancement,402.5mg/ml*10vials,175,402.5,10,4025,0.043
+HYB,SHRED Blend,350.25mg/ml*10vials,115,350.25,10,3502.5,0.033
+HYB,GGH Blend,402mg/ml*10vials,130,402,10,4020,0.032
+HXTNT,Tirzepatide,5mg*10vials,40,5,10,50,0.80
+HXTNT,Tirzepatide,10mg*10vials,50,10,10,100,0.50
+HXTNT,Tirzepatide,15mg*10vials,60,15,10,150,0.40
+HXTNT,Tirzepatide,20mg*10vials,70,20,10,200,0.35
+HXTNT,Tirzepatide,30mg*10vials,86,30,10,300,0.29
+HXTNT,Tirzepatide,40mg*10vials,110,40,10,400,0.28
+HXTNT,Tirzepatide,45mg*10vials,120,45,10,450,0.27
+HXTNT,Tirzepatide,50mg*10vials,135,50,10,500,0.27
+HXTNT,Tirzepatide,60mg*10vials,158,60,10,600,0.26
+HXTNT,Retatrutide,5mg*10vials,55,5,10,50,1.10
+HXTNT,Retatrutide,10mg*10vials,80,10,10,100,0.80
+HXTNT,Retatrutide,15mg*10vials,95,15,10,150,0.63
+HXTNT,Retatrutide,20mg*10vials,120,20,10,200,0.60
+HXTNT,Retatrutide,30mg*10vials,157,30,10,300,0.52
+HXTNT,Retatrutide,40mg*10vials,195,40,10,400,0.49
+HXTNT,Retatrutide,50mg*10vials,230,50,10,500,0.46
+HXTNT,Retatrutide,60mg*10vials,270,60,10,600,0.45
+HXTNT,Semaglutide,2mg*10vials,30,2,10,20,1.50
+HXTNT,Semaglutide,5mg*10vials,35,5,10,50,0.70
+HXTNT,Semaglutide,10mg*10vials,45,10,10,100,0.45
+HXTNT,Semaglutide,15mg*10vials,60,15,10,150,0.40
+HXTNT,Semaglutide,20mg*10vials,70,20,10,200,0.35
+HXTNT,Semaglutide,30mg*10vials,90,30,10,300,0.30
+HXTNT,Epithalon,10mg*10vials,46,10,10,100,0.46
+HXTNT,Epithalon,50mg*10vials,120,50,10,500,0.24
+HXTNT,MT-1,10mg*10vials,40,10,10,100,0.40
+HXTNT,MT-2,10mg*10vials,40,10,10,100,0.40
+HXTNT,PT-141,10mg*10vials,50,10,10,100,0.50
+HXTNT,DSIP,5mg*10vials,32,5,10,50,0.64
+HXTNT,DSIP,10mg*10vials,58,10,10,100,0.58
+HXTNT,DSIP,15mg*10vials,75,15,10,150,0.50
+HXTNT,Selank,5mg*10vials,37,5,10,50,0.74
+HXTNT,Selank,10mg*10vials,55,10,10,100,0.55
+HXTNT,Pinealon,10mg*10vials,43,10,10,100,0.43
+HXTNT,Pinealon,20mg*10vials,65,20,10,200,0.33
+HXTNT,BPC-157,5mg*10vials,40,5,10,50,0.80
+HXTNT,BPC-157,10mg*10vials,60,10,10,100,0.60
+HXTNT,BPC-157,15mg*10vials,75,15,10,150,0.50
+HXTNT,BPC-157,20mg*10vials,90,20,10,200,0.45
+HXTNT,Semax,5mg*10vials,37,5,10,50,0.74
+HXTNT,Semax,10mg*10vials,55,10,10,100,0.55
+HXTNT,SS-31,10mg*10vials,65,10,10,100,0.65
+HXTNT,SS-31,50mg*10vials,270,50,10,500,0.54
+HXTNT,GHRP-2,5mg*10vials,30,5,10,50,0.60
+HXTNT,GHRP-2,10mg*10vials,46,10,10,100,0.46
+HXTNT,GHRP-6,5mg*10vials,30,5,10,50,0.60
+HXTNT,GHRP-6,10mg*10vials,46,10,10,100,0.46
+HXTNT,CJC-1295 no DAC,2mg*10vials,40,2,10,20,2.00
+HXTNT,CJC-1295 no DAC,5mg*10vials,68,5,10,50,1.36
+HXTNT,CJC-1295 no DAC,10mg*10vials,128,10,10,100,1.28
+HXTNT,CJC-1295 DAC,2mg*10vials,58,2,10,20,2.90
+HXTNT,CJC-1295 DAC,5mg*10vials,135,5,10,50,2.70
+HXTNT,TB-500,5mg*10vials,68,5,10,50,1.36
+HXTNT,TB-500,10mg*10vials,120,10,10,100,1.20
+HXTNT,Sermorelin,5mg*10vials,65,5,10,50,1.30
+HXTNT,Sermorelin,10mg*10vials,120,10,10,100,1.20
+HXTNT,Hexarelin,5mg*10vials,65,5,10,50,1.30
+HXTNT,HCG,10000iu*10vials,110,10000,10,100000,0.0011
+HXTNT,HCG,5000iu*10vials,60,5000,10,50000,0.0012
+HXTNT,HMG,75iu*10vials,50,75,10,750,0.07
+HXTNT,HGH Frag 176-191,5mg*10vials,72,5,10,50,1.44
+HXTNT,HGH,10iu*10vials,50,10,10,100,0.50
+HXTNT,HGH,12iu*10vials,62,12,10,120,0.52
+HXTNT,HGH,15iu*10vials,70,15,10,150,0.47
+HXTNT,HGH,24iu*10vials,95,24,10,240,0.40
+HXTNT,HGH,36iu*10vials,140,36,10,360,0.39
+HXTNT,IGF-1 LR3,0.1mg*10vials,35,0.1,10,1,35.00
+HXTNT,IGF-1 LR3,1mg*10vials,170,1,10,10,17.00
+HXTNT,Tesamorelin,5mg*10vials,85,5,10,50,1.70
+HXTNT,Tesamorelin,10mg*10vials,150,10,10,100,1.50
+HXTNT,Ipamorelin,5mg*10vials,40,5,10,50,0.80
+HXTNT,Ipamorelin,10mg*10vials,60,10,10,100,0.60
+HXTNT,GHK-Cu,50mg*10vials,32,50,10,500,0.06
+HXTNT,GHK-Cu,100mg*10vials,45,100,10,1000,0.05
+HXTNT,Kisspeptin-10,5mg*10vials,45,5,10,50,0.90
+HXTNT,Kisspeptin-10,10mg*10vials,70,10,10,100,0.70
+HXTNT,Thymalin,10mg*10vials,55,10,10,100,0.55
+HXTNT,Thymosin Alpha-1,2mg*10vials,42,2,10,20,2.10
+HXTNT,Thymosin Alpha-1,5mg*10vials,75,5,10,50,1.50
+HXTNT,Thymosin Alpha-1,10mg*10vials,140,10,10,100,1.40
+HXTNT,MOTS-c,10mg*10vials,50,10,10,100,0.50
+HXTNT,MOTS-c,40mg*10vials,150,40,10,400,0.38
+HXTNT,Glutathione,600mg*10vials,38,600,10,6000,0.006
+HXTNT,Glutathione,1200mg*10vials,55,1200,10,12000,0.005
+HXTNT,Cerebrolysin,60mg*6vials,42,60,6,360,0.12
+HXTNT,Cagrilintide,5mg*10vials,88,5,10,50,1.76
+HXTNT,Cagrilintide,10mg*10vials,145,10,10,100,1.45
+HXTNT,FOXO4,10mg*10vials,210,10,10,100,2.10
+HXTNT,Ara-290,10mg*10vials,48,10,10,100,0.48
+HXTNT,SNAP-8,10mg*10vials,40,10,10,100,0.40
+HXTNT,NAD+,100mg*10vials,50,100,10,1000,0.05
+HXTNT,NAD+,500mg*10vials,70,500,10,5000,0.01
+HXTNT,5-Amino-1MQ,5mg*10vials,42,5,10,50,0.84
+HXTNT,Survodutide,10mg*10vials,185,10,10,100,1.85
+HXTNT,Lipo-C,10ml*10vials,75,10,10,100,0.75
+HXTNT,VIP,5mg*10vials,65,5,10,50,1.30
+HXTNT,VIP,10mg*10vials,120,10,10,100,1.20
+HXTNT,SLU-PP-332,5mg*10vials,95,5,10,50,1.90
+HXTNT,KPV,5mg*10vials,35,5,10,50,0.70
+HXTNT,KPV,10mg*10vials,48,10,10,100,0.48
+HXTNT,LL-37,5mg*10vials,65,5,10,50,1.30
+HXTNT,Vitamin B12,1mg*10vials,35,1,10,10,3.50
+HXTNT,Lemon Bottle,10mg*10vials,55,10,10,100,0.55
+HXTNT,Oxytocin,5mg*10vials,38,5,10,50,0.76
+HXTNT,Oxytocin,10mg*10vials,52,10,10,100,0.52
+HXTNT,Mazdutide,5mg*10vials,90,5,10,50,1.80
+HXTNT,Mazdutide,10mg*10vials,165,10,10,100,1.65
+VIOLET,MT-1,10mg*10vials,40,10,10,100,0.40
+VIOLET,MT-2,10mg*10vials,40,10,10,100,0.40
+VIOLET,PT-141,10mg*10vials,50,10,10,100,0.50
+VIOLET,DSIP,5mg*10vials,32,5,10,50,0.64
+VIOLET,DSIP,10mg*10vials,58,10,10,100,0.58
+VIOLET,DSIP,15mg*10vials,75,15,10,150,0.50
+VIOLET,Oxytocin,5mg*10vials,38,5,10,50,0.76
+VIOLET,Oxytocin,10mg*10vials,52,10,10,100,0.52
+VIOLET,Selank,5mg*10vials,37,5,10,50,0.74
+VIOLET,Selank,10mg*10vials,55,10,10,100,0.55
+VIOLET,Epithalon,10mg*10vials,46,10,10,100,0.46
+VIOLET,Epithalon,50mg*10vials,120,50,10,500,0.24
+VIOLET,Pinealon,10mg*10vials,43,10,10,100,0.43
+VIOLET,Pinealon,20mg*10vials,65,20,10,200,0.33
+VIOLET,BPC-157,5mg*10vials,40,5,10,50,0.80
+VIOLET,BPC-157,10mg*10vials,60,10,10,100,0.60
+VIOLET,BPC-157,15mg*10vials,75,15,10,150,0.50
+VIOLET,BPC-157,20mg*10vials,90,20,10,200,0.45
+VIOLET,BPC+TB500,5mg+5mg*10vials,75,10,10,100,0.75
+VIOLET,BPC+TB500,10mg+10mg*10vials,145,20,10,200,0.73
+VIOLET,Semax,5mg*10vials,37,5,10,50,0.74
+VIOLET,Semax,10mg*10vials,55,10,10,100,0.55
+VIOLET,Semaglutide,5mg*10vials,35,5,10,50,0.70
+VIOLET,Semaglutide,10mg*10vials,45,10,10,100,0.45
+VIOLET,Semaglutide,15mg*10vials,60,15,10,150,0.40
+VIOLET,Semaglutide,20mg*10vials,70,20,10,200,0.35
+VIOLET,Semaglutide,30mg*10vials,90,30,10,300,0.30
+VIOLET,SS-31,10mg*10vials,65,10,10,100,0.65
+VIOLET,SS-31,50mg*10vials,270,50,10,500,0.54
+VIOLET,Tirzepatide,5mg*10vials,40,5,10,50,0.80
+VIOLET,Tirzepatide,10mg*10vials,50,10,10,100,0.50
+VIOLET,Tirzepatide,15mg*10vials,60,15,10,150,0.40
+VIOLET,Tirzepatide,20mg*10vials,70,20,10,200,0.35
+VIOLET,Tirzepatide,30mg*10vials,85,30,10,300,0.28
+VIOLET,Tirzepatide,40mg*10vials,110,40,10,400,0.28
+VIOLET,Tirzepatide,45mg*10vials,120,45,10,450,0.27
+VIOLET,Tirzepatide,50mg*10vials,135,50,10,500,0.27
+VIOLET,Tirzepatide,60mg*10vials,158,60,10,600,0.26
+VIOLET,Tirzepatide,100mg*10vials,240,100,10,1000,0.24
+VIOLET,GHRP-2,5mg*10vials,30,5,10,50,0.60
+VIOLET,GHRP-2,10mg*10vials,46,10,10,100,0.46
+VIOLET,GHRP-6,5mg*10vials,30,5,10,50,0.60
+VIOLET,GHRP-6,10mg*10vials,46,10,10,100,0.46
+VIOLET,CJC-1295 no DAC,2mg*10vials,40,2,10,20,2.00
+VIOLET,CJC-1295 no DAC,5mg*10vials,68,5,10,50,1.36
+VIOLET,CJC-1295 no DAC,10mg*10vials,128,10,10,100,1.28
+VIOLET,CJC-1295 DAC,2mg*10vials,58,2,10,20,2.90
+VIOLET,CJC-1295 DAC,5mg*10vials,135,5,10,50,2.70
+VIOLET,TB-500,5mg*10vials,68,5,10,50,1.36
+VIOLET,TB-500,10mg*10vials,120,10,10,100,1.20
+VIOLET,Sermorelin,5mg*10vials,65,5,10,50,1.30
+VIOLET,Sermorelin,10mg*10vials,120,10,10,100,1.20
+VIOLET,Hexarelin,5mg*10vials,65,5,10,50,1.30
+VIOLET,HCG,10000iu*10vials,110,10000,10,100000,0.0011
+VIOLET,HCG,5000iu*10vials,60,5000,10,50000,0.0012
+VIOLET,HMG,75iu*10vials,50,75,10,750,0.067
+VIOLET,HGH Frag 176-191,5mg*10vials,72,5,10,50,1.44
+VIOLET,HGH,10iu*10vials,50,10,10,100,0.50
+VIOLET,HGH,12iu*10vials,62,12,10,120,0.52
+VIOLET,HGH,15iu*10vials,70,15,10,150,0.47
+VIOLET,HGH,24iu*10vials,95,24,10,240,0.40
+VIOLET,HGH,36iu*10vials,140,36,10,360,0.39
+VIOLET,IGF-1 LR3,0.1mg*10vials,35,0.1,10,1,35.00
+VIOLET,IGF-1 LR3,1mg*10vials,170,1,10,10,17.00
+VIOLET,Tesamorelin,5mg*10vials,85,5,10,50,1.70
+VIOLET,Tesamorelin,10mg*10vials,150,10,10,100,1.50
+VIOLET,Ipamorelin,5mg*10vials,40,5,10,50,0.80
+VIOLET,Ipamorelin,10mg*10vials,60,10,10,100,0.60
+VIOLET,GHK-Cu,50mg*10vials,32,50,10,500,0.064
+VIOLET,GHK-Cu,100mg*10vials,45,100,10,1000,0.045
+VIOLET,AHK-Cu,100mg*10vials,50,100,10,1000,0.05
+VIOLET,Kisspeptin-10,5mg*10vials,45,5,10,50,0.90
+VIOLET,Kisspeptin-10,10mg*10vials,70,10,10,100,0.70
+VIOLET,Thymalin,10mg*10vials,55,10,10,100,0.55
+VIOLET,Thymosin Alpha-1,2mg*10vials,42,2,10,20,2.10
+VIOLET,Thymosin Alpha-1,5mg*10vials,75,5,10,50,1.50
+VIOLET,Thymosin Alpha-1,10mg*10vials,140,10,10,100,1.40
+VIOLET,MOTS-c,10mg*10vials,50,10,10,100,0.50
+VIOLET,MOTS-c,40mg*10vials,150,40,10,400,0.38
+VIOLET,Retatrutide,5mg*10vials,55,5,10,50,1.10
+VIOLET,Retatrutide,10mg*10vials,80,10,10,100,0.80
+VIOLET,Retatrutide,15mg*10vials,95,15,10,150,0.63
+VIOLET,Retatrutide,20mg*10vials,120,20,10,200,0.60
+VIOLET,Retatrutide,30mg*10vials,157,30,10,300,0.52
+VIOLET,Retatrutide,40mg*10vials,195,40,10,400,0.49
+VIOLET,Retatrutide,50mg*10vials,230,50,10,500,0.46
+VIOLET,Retatrutide,60mg*10vials,270,60,10,600,0.45
+VIOLET,Glutathione,600mg*10vials,38,600,10,6000,0.0063
+VIOLET,Glutathione,1200mg*10vials,55,1200,10,12000,0.0046
+VIOLET,Cerebrolysin,60mg*6vials,42,60,6,360,0.117
+VIOLET,Cagrilintide,5mg*10vials,88,5,10,50,1.76
+VIOLET,Cagrilintide,10mg*10vials,145,10,10,100,1.45
+VIOLET,FOXO4,10mg*10vials,210,10,10,100,2.10
+VIOLET,ARA-290,10mg*10vials,48,10,10,100,0.48
+VIOLET,SNAP-8,10mg*10vials,40,10,10,100,0.40
+VIOLET,Mazdutide,5mg*10vials,90,5,10,50,1.80
+VIOLET,Mazdutide,10mg*10vials,165,10,10,100,1.65
+VIOLET,NAD+,100mg*10vials,50,100,10,1000,0.05
+VIOLET,NAD+,250mg*10vials,60,250,10,2500,0.024
+VIOLET,NAD+,500mg*10vials,70,500,10,5000,0.014
+VIOLET,NAD+,1000mg*10vials,100,1000,10,10000,0.010
+VIOLET,AOD-9604,5mg*10vials,80,5,10,50,1.60
+VIOLET,5-Amino-1MQ,5mg*10vials,42,5,10,50,0.84
+VIOLET,5-Amino-1MQ,10mg*10vials,56,10,10,100,0.56
+VIOLET,5-Amino-1MQ,50mg*10vials,95,50,10,500,0.19
+VIOLET,Survodutide,10mg*10vials,185,10,10,100,1.85
+VIOLET,Cagrilintide+Semaglutide,5mg+5mg*10vials,130,10,10,100,1.30
+VIOLET,BBG70 Blend,70mg*10vials,163,70,10,700,0.233
+VIOLET,KL80 Blend,80mg*10vials,195,80,10,800,0.244
+VIOLET,Lipo-C,10ml*10vials,75,10,10,100,0.75
+VIOLET,VIP,5mg*10vials,65,5,10,50,1.30
+VIOLET,VIP,10mg*10vials,120,10,10,100,1.20
+VIOLET,SLU-PP-332,5mg*10vials,95,5,10,50,1.90
+VIOLET,KPV,5mg*10vials,35,5,10,50,0.70
+VIOLET,KPV,10mg*10vials,48,10,10,100,0.48
+VIOLET,LL-37,5mg*10vials,65,5,10,50,1.30
+VIOLET,Vitamin B12,0.1mg*10vials,7,0.1,10,1,7.00
+VIOLET,BAC Water,3ml*10vials,8,3,10,30,0.27
+VIOLET,BAC Water,5ml*10vials,11,5,10,50,0.22
+VIOLET,BAC Water,10ml*10vials,15,10,10,100,0.15
+VIOLET,Lemon Bottle,10mg*10vials,55,10,10,100,0.55
+ZJ,Tirzepatide,5mg*10vials,48,5,10,50,0.96
+ZJ,Tirzepatide,10mg*10vials,68,10,10,100,0.68
+ZJ,Tirzepatide,15mg*10vials,80,15,10,150,0.53
+ZJ,Tirzepatide,20mg*10vials,95,20,10,200,0.48
+ZJ,Tirzepatide,30mg*10vials,120,30,10,300,0.40
+ZJ,Tirzepatide,40mg*10vials,150,40,10,400,0.38
+ZJ,Tirzepatide,50mg*10vials,165,50,10,500,0.33
+ZJ,Tirzepatide,60mg*10vials,210,60,10,600,0.35
+ZJ,Tirzepatide,70mg*10vials,225,70,10,700,0.32
+ZJ,Tirzepatide,80mg*10vials,255,80,10,800,0.32
+ZJ,Tirzepatide,90mg*10vials,275,90,10,900,0.31
+ZJ,Tirzepatide,100mg*10vials,315,100,10,1000,0.32
+ZJ,Tirzepatide,120mg*10vials,330,120,10,1200,0.28
+ZJ,Semaglutide,5mg*10vials,46,5,10,50,0.92
+ZJ,Semaglutide,10mg*10vials,70,10,10,100,0.70
+ZJ,Semaglutide,15mg*10vials,86,15,10,150,0.57
+ZJ,Semaglutide,20mg*10vials,100,20,10,200,0.50
+ZJ,Semaglutide,30mg*10vials,120,30,10,300,0.40
+ZJ,Retatrutide,5mg*10vials,77,5,10,50,1.54
+ZJ,Retatrutide,10mg*10vials,120,10,10,100,1.20
+ZJ,Retatrutide,15mg*10vials,155,15,10,150,1.03
+ZJ,Retatrutide,20mg*10vials,170,20,10,200,0.85
+ZJ,Retatrutide,30mg*10vials,210,30,10,300,0.70
+ZJ,Retatrutide,40mg*10vials,325,40,10,400,0.81
+ZJ,Retatrutide,50mg*10vials,335,50,10,500,0.67
+ZJ,Retatrutide,60mg*10vials,340,60,10,600,0.57
+ZJ,Cagrilintide,5mg*10vials,118,5,10,50,2.36
+ZJ,Cagrilintide,10mg*10vials,225,10,10,100,2.25
+ZJ,Lipo-C,10ml*10vials,80,10,10,100,0.80
+ZJ,Lemon Bottle,10ml*10vials,87,10,10,100,0.87
+ZJ,L-Carnitine,600mg*10vials,40,600,10,6000,0.0067
+ZJ,Glow Blend,70mg*10vials,220,70,10,700,0.314
+ZJ,Klow Blend,80mg*10vials,245,80,10,800,0.306
+ZJ,TB-500,2mg*10vials,45,2,10,20,2.25
+ZJ,TB-500,5mg*10vials,85,5,10,50,1.70
+ZJ,TB-500,10mg*10vials,165,10,10,100,1.65
+ZJ,BPC-157,5mg*10vials,41,5,10,50,0.82
+ZJ,BPC-157,10mg*10vials,65,10,10,100,0.65
+ZJ,BPC+TB500,5mg+5mg*10vials,110,10,10,100,1.10
+ZJ,BPC+TB500,10mg+10mg*10vials,210,20,10,200,1.05
+ZJ,CJC-1295 no DAC,2mg*10vials,40,2,10,20,2.00
+ZJ,CJC-1295 no DAC,5mg*10vials,90,5,10,50,1.80
+ZJ,CJC-1295 no DAC,10mg*10vials,180,10,10,100,1.80
+ZJ,CJC-1295 DAC,2mg*10vials,78,2,10,20,3.90
+ZJ,CJC-1295 DAC,5mg*10vials,185,5,10,50,3.70
+ZJ,PT-141,10mg*10vials,62,10,10,100,0.62
+ZJ,NAD+,100mg*10vials,48,100,10,1000,0.048
+ZJ,NAD+,500mg*10vials,95,500,10,5000,0.019
+ZJ,Cagrilintide+Semaglutide,5mg+5mg*10vials,170,10,10,100,1.70
+ZJ,MOTS-c,10mg*10vials,68,10,10,100,0.68
+ZJ,MOTS-c,40mg*10vials,215,40,10,400,0.54
+ZJ,AOD-9604,2mg*10vials,58,2,10,20,2.90
+ZJ,AOD-9604,5mg*10vials,105,5,10,50,2.10
+ZJ,Epitalon,10mg*10vials,38,10,10,100,0.38
+ZJ,Epitalon,50mg*10vials,170,50,10,500,0.34
+ZJ,HGH,10iu*10vials,49,10,10,100,0.49
+ZJ,HGH,12iu*10vials,65,12,10,120,0.54
+ZJ,HGH,15iu*10vials,80,15,10,150,0.53
+ZJ,HGH,24iu*10vials,115,24,10,240,0.48
+ZJ,HCG,5000iu*10vials,83,5000,10,50000,0.0017
+ZJ,HCG,10000iu*10vials,135,10000,10,100000,0.00135
+ZJ,HMG,75iu*10vials,68,75,10,750,0.091
+ZJ,Mazdutide,10mg*10vials,185,10,10,100,1.85
+ZJ,Survodutide,10mg*10vials,310,10,10,100,3.10
+ZJ,GHK-Cu,50mg*10vials,37,50,10,500,0.074
+ZJ,GHK-Cu,100mg*10vials,63,100,10,1000,0.063
+ZJ,MT-2,10mg*10vials,50,10,10,100,0.50
+ZJ,Melatonin,10mg*10vials,70,10,10,100,0.70
+ZJ,MT-1,10mg*10vials,65,10,10,100,0.65
+ZJ,Ipamorelin,5mg*10vials,40,5,10,50,0.80
+ZJ,Ipamorelin,10mg*10vials,78,10,10,100,0.78
+ZJ,Adipotide,5mg*10vials,145,5,10,50,2.90
+ZJ,Semax,5mg*10vials,49,5,10,50,0.98
+ZJ,Semax,10mg*10vials,78,10,10,100,0.78
+ZJ,Sermorelin,5mg*10vials,72,5,10,50,1.44
+ZJ,Sermorelin,10mg*10vials,150,10,10,100,1.50
+ZJ,Tesamorelin,2mg*10vials,58,2,10,20,2.90
+ZJ,Tesamorelin,5mg*10vials,108,5,10,50,2.16
+ZJ,Tesamorelin,10mg*10vials,210,10,10,100,2.10
+ZJ,DSIP,5mg*10vials,46,5,10,50,0.92
+ZJ,DSIP,10mg*10vials,90,10,10,100,0.90
+ZJ,Gonadorelin,2mg*10vials,40,2,10,20,2.00
+ZJ,Hexarelin,2mg*10vials,39,2,10,20,1.95
+ZJ,Hexarelin,5mg*10vials,85,5,10,50,1.70
+ZJ,IGF-1 LR3,0.1mg*10vials,45,0.1,10,1,45.00
+ZJ,IGF-1 LR3,1mg*10vials,215,1,10,10,21.50
+ZJ,Kisspeptin-10,5mg*10vials,62,5,10,50,1.24
+ZJ,Kisspeptin-10,10mg*10vials,125,10,10,100,1.25
+ZJ,Oxytocin,2mg*10vials,40,2,10,20,2.00
+ZJ,Oxytocin,5mg*10vials,65,5,10,50,1.30
+ZJ,Selank,5mg*10vials,49,5,10,50,0.98
+ZJ,Selank,10mg*10vials,78,10,10,100,0.78
+ZJ,Thymosin Alpha-1,5mg*10vials,105,5,10,50,2.10
+ZJ,Thymosin Alpha-1,10mg*10vials,170,10,10,100,1.70
+ZJ,Thymalin,10mg*10vials,65,10,10,100,0.65
+ZJ,AICAR,50mg*10vials,65,50,10,500,0.13
+ZJ,SS-31,10mg*10vials,95,10,10,100,0.95
+ZJ,SS-31,50mg*10vials,380,50,10,500,0.76
+ZJ,GHRP-2,5mg*10vials,30,5,10,50,0.60
+ZJ,GHRP-2,10mg*10vials,50,10,10,100,0.50
+ZJ,GHRP-6,5mg*10vials,30,5,10,50,0.60
+ZJ,GHRP-6,10mg*10vials,50,10,10,100,0.50
+ZJ,Dermorphin,5mg*10vials,35,5,10,50,0.70
+ZJ,5-Amino-1MQ,5mg*10vials,75,5,10,50,1.50
+ZJ,5-Amino-1MQ,50mg*10vials,130,50,10,500,0.26
+ZJ,SNAP-8,10mg*10vials,45,10,10,100,0.45
+ZJ,LL-37,5mg*10vials,95,5,10,50,1.90
+ZJ,BAC Water,3ml*10vials,8,3,10,30,0.27
+ZJ,BAC Water,10ml*10vials,11,10,10,100,0.11
+ZJ,KPV,10mg*10vials,80,10,10,100,0.80
+ZJ,VIP,10mg*10vials,185,10,10,100,1.85
+ZJ,FOXO4,10mg*10vials,375,10,10,100,3.75
+ZJ,MGF,2mg*10vials,60,2,10,20,3.00
+ZJ,PEG-MGF,2mg*10vials,95,2,10,20,4.75
+ZJ,Vitamin B12,10ml*10vials,22,10,10,100,0.22
+ZJ,SLU-PP-332,5mg*10vials,100,5,10,50,2.00
+MIX,Tirzepatide,30mg*10vials,90,30,10,300,0.30
+MIX,Tirzepatide,40mg*10vials,120,40,10,400,0.30
+MIX,Tirzepatide,60mg*10vials,180,60,10,600,0.30
+MIX,Retatrutide,15mg*10vials,120,15,10,150,0.80
+MIX,Retatrutide,30mg*10vials,210,30,10,300,0.70
+MIX,Retatrutide,50mg*10vials,310,50,10,500,0.62
+MIX,Semaglutide,10mg*10vials,65,10,10,100,0.65
+MIX,Klow-80,80mg*10vials,175,80,10,800,0.22
+MIX,NAD+,500mg*10vials,75,500,10,5000,0.015
+MIX,GLOW-70,70mg*10vials,160,70,10,700,0.23
+MIX,Cagrilintide,10mg*10vials,135,10,10,100,1.35
+UTHER,Semaglutide,5mg*10vials,80,5,10,50,1.60
+UTHER,Semaglutide,10mg*10vials,120,10,10,100,1.20
+UTHER,Semaglutide,20mg*10vials,170,20,10,200,0.85
+UTHER,Tirzepatide,10mg*10vials,150,10,10,100,1.50
+UTHER,Tirzepatide,15mg*10vials,180,15,10,150,1.20
+UTHER,Tirzepatide,30mg*10vials,220,30,10,300,0.73
+UTHER,Tirzepatide,45mg*10vials,240,45,10,450,0.53
+UTHER,Tirzepatide,60mg*10vials,280,60,10,600,0.47
+UTHER,Tirzepatide,90mg*10vials,350,90,10,900,0.39
+UTHER,Retatrutide,10mg*10vials,200,10,10,100,2.00
+UTHER,Retatrutide,20mg*10vials,300,20,10,200,1.50
+UTHER,Retatrutide,30mg*10vials,370,30,10,300,1.23
+UTHER,Retatrutide,40mg*10vials,450,40,10,400,1.13
+UTHER,Retatrutide,50mg*10vials,500,50,10,500,1.00
+UTHER,Cagrilintide,5mg*10vials,150,5,10,50,3.00
+UTHER,Cagrilintide,10mg*10vials,220,10,10,100,2.20
+UTHER,Mazdutide,10mg*10vials,260,10,10,100,2.60
+UTHER,Survodutide,10mg*10vials,230,10,10,100,2.30
+UTHER,BAC Water,10ml*10vials,25,10,10,100,0.25
+UTHER,BAC Water,3ml*10vials,15,3,10,30,0.50
+UTHER,L-Carnitine,500mg*10vials,200,500,10,5000,0.04
+UTHER,Vitamin B12,1mg*10vials,60,1,10,10,6.00
+UTHER,HGH,10iu*10vials,58,10,10,100,0.58
+UTHER,IGF-1 LR3,1mg*10vials,210,1,10,10,21.00
+UTHER,5-Amino-1MQ,50mg*10vials,120,50,10,500,0.24
+UTHER,5-Amino-1MQ,10mg*10vials,60,10,10,100,0.60
+UTHER,Adipotide,10mg*10vials,165,10,10,100,1.65
+UTHER,VIP,10mg*10vials,130,10,10,100,1.30
+UTHER,BPC-157,10mg*10vials,50,10,10,100,0.50
+UTHER,BPC-157,20mg*10vials,90,20,10,200,0.45
+UTHER,BPC-157,40mg*10vials,175,40,10,400,0.44
+UTHER,TB-500,10mg*10vials,120,10,10,100,1.20
+UTHER,Abaloparatide,3mg*10vials,100,3,10,30,3.33
+UTHER,Teriparatide,0.75mg*10vials,75,0.75,10,7.5,10.00
+UTHER,AOD-9604,5mg*10vials,110,5,10,50,2.20
+UTHER,HGH Frag 176-191,5mg*10vials,75,5,10,50,1.50
+UTHER,PT-141,10mg*10vials,70,10,10,100,0.70
+UTHER,Kisspeptin-10,10mg*10vials,75,10,10,100,0.75
+UTHER,Epitalon,10mg*10vials,55,10,10,100,0.55
+UTHER,Epitalon,50mg*10vials,200,50,10,500,0.40
+UTHER,Melanotan II,10mg*10vials,45,10,10,100,0.45
+UTHER,Melanotan I,10mg*10vials,55,10,10,100,0.55
+UTHER,CJC-1295 DAC,5mg*10vials,120,5,10,50,2.40
+UTHER,CJC-1295 no DAC,10mg*10vials,140,10,10,100,1.40
+UTHER,GHRP-6,10mg*10vials,50,10,10,100,0.50
+UTHER,GHRP-2,10mg*10vials,50,10,10,100,0.50
+UTHER,Tesamorelin,10mg*10vials,145,10,10,100,1.45
+UTHER,Tesamorelin,20mg*10vials,270,20,10,200,1.35
+UTHER,MOTS-c,10mg*10vials,58,10,10,100,0.58
+UTHER,MOTS-c,20mg*10vials,100,20,10,200,0.50
+UTHER,MOTS-c,40mg*10vials,180,40,10,400,0.45
+UTHER,SS-31,10mg*10vials,80,10,10,100,0.80
+UTHER,SS-31,30mg*10vials,220,30,10,300,0.73
+UTHER,SS-31,50mg*10vials,300,50,10,500,0.60
+UTHER,Ipamorelin,10mg*10vials,90,10,10,100,0.90
+UTHER,Thymosin Alpha-1,10mg*10vials,145,10,10,100,1.45
+UTHER,Thymulin,20mg*10vials,100,20,10,200,0.50
+UTHER,Adamax,10mg*10vials,280,10,10,100,2.80
+UTHER,Semax,10mg*10vials,60,10,10,100,0.60
+UTHER,Selank,10mg*10vials,60,10,10,100,0.60
+UTHER,Na-Semax,20mg*10vials,70,20,10,200,0.35
+UTHER,Na-Selank,20mg*10vials,70,20,10,200,0.35
+UTHER,Foxo4,10mg*10vials,350,10,10,100,3.50
+UTHER,Oxytocin,10mg*10vials,60,10,10,100,0.60
+UTHER,SNAP-8,10mg*10vials,40,10,10,100,0.40
+UTHER,DSIP,5mg*10vials,40,5,10,50,0.80
+UTHER,DSIP,10mg*10vials,70,10,10,100,0.70
+UTHER,GHK-CU,50mg*10vials,40,50,10,500,0.08
+UTHER,GHK-CU,100mg*10vials,51,100,10,1000,0.051
+UTHER,NAD+,500mg*10vials,95,500,10,5000,0.019
+UTHER,TB-500 Frag,10mg*10vials,70,10,10,100,0.70
+UTHER,PNC-27,30mg*10vials,250,30,10,300,0.83
+UTHER,LL-37,5mg*10vials,95,5,10,50,1.90
+UTHER,KPV,10mg*10vials,80,10,10,100,0.80
+UTHER,KPV,30mg*10vials,150,30,10,300,0.50
+UTHER,Sermorelin,5mg*10vials,70,5,10,50,1.40
+UTHER,GLOW Blend,70mg*10vials,210,70,10,700,0.30
+UTHER,KLOW Blend,80mg*10vials,240,80,10,800,0.30
+UTHER,PE-22-28,10mg*10vials,80,10,10,100,0.80
+UTHER,ARA-290,16mg*10vials,95,16,10,160,0.59
+UTHER,Tri-Heal Max,45mg*10vials,380,45,10,450,0.84
+UTHER,GMP HCG,1000iu*10vials,40,1000,10,10000,0.004
+UTHER,GMP HCG,2000iu*10vials,70,2000,10,20000,0.0035
+UTHER,GMP HCG,4000iu*10vials,175,4000,10,40000,0.0044
+UTHER,GMP Glutathione,600mg*10vials,45,600,10,6000,0.0075
+UTHER,GMP Glutathione,1500mg*10vials,85,1500,10,15000,0.0057
+UTHER,GMP HMG,75iu*10vials,75,75,10,750,0.10
+UTHER,GMP Cerebrolysin,30mg*10vials,45,30,10,300,0.15
+UTHER,Prostamax,20mg*10vials,150,20,10,200,0.75
+UTHER,Pinealon,20mg*10vials,150,20,10,200,0.75
+UTHER,Ovagen,20mg*10vials,150,20,10,200,0.75
+UTHER,Vesugen,20mg*10vials,150,20,10,200,0.75
+UTHER,Bronchogen,20mg*10vials,150,20,10,200,0.75
+UTHER,Vilon,20mg*10vials,150,20,10,200,0.75
+UTHER,Cartalax,20mg*10vials,150,20,10,200,0.75
+UTHER,Cortagen,20mg*10vials,150,20,10,200,0.75
+UTHER,Chonluten,20mg*10vials,150,20,10,200,0.75
+UTHER,Livagen,20mg*10vials,150,20,10,200,0.75
+UTHER,Testagen,20mg*10vials,150,20,10,200,0.75
+UTHER,Cardiogen,20mg*10vials,150,20,10,200,0.75
+UTHER,Pancragon,20mg*10vials,150,20,10,200,0.75
+UTHER,Thymogen,20mg*10vials,150,20,10,200,0.75
+UTHER,Crystagen,20mg*10vials,150,20,10,200,0.75
+UTHER,Vesilute,20mg*10vials,130,20,10,200,0.65
+Jeep,NAD+ (Buffered),500mg 10vials/kit,80.0,500.0,10,5000.0,0.016
+Jeep,NAD+ (Buffered),1000mg 10vials/kit,110.0,1000.0,10,10000.0,0.011
+Jeep,GLOW(CU30+BP10+TB5) mixed,50mg 10vials/kit,155.0,50.0,10,500.0,0.31
+Jeep,GLOW(CU50+BP10+TB10) mixed,70mg 10vials/kit,180.0,70.0,10,700.0,0.2571428571428571
+Jeep,Semaglutide,20mg 10vials/kit,100.0,20.0,10,200.0,0.5
+Jeep,TB-500,10mg 10vials/kit,130.0,10.0,10,100.0,1.3
+Jeep,GHK-CU,50mg 10vials/kit,50.0,50.0,10,500.0,0.1
+Jeep,GHK-CU,100mg 10vials/kit,80.0,100.0,10,1000.0,0.08
+Jeep,Klow (cu + bpc + tb + kpv) mixed,80mg 10vials/kit,200.0,80.0,10,800.0,0.25
+Jeep,BPC-157,10mg 10vials/kit,60.0,10.0,10,100.0,0.6
+Jeep,Retatrutide,5mg 10vials/kit,80.0,5.0,10,50.0,1.6
+Jeep,Retatrutide,10mg 10vials/kit,130.0,10.0,10,100.0,1.3
+Jeep,Retatrutide,15mg 10vials/kit,180.0,15.0,10,150.0,1.2
+Jeep,Retatrutide,20mg 10vials/kit,208.0,20.0,10,200.0,1.04
+Jeep,Retatrutide,30mg 10vials/kit,270.0,30.0,10,300.0,0.9
+Jeep,Retatrutide,40mg 10vials/kit,300.0,40.0,10,400.0,0.75
+Jeep,Retatrutide,50mg 10vials/kit,340.0,50.0,10,500.0,0.68
+Jeep,Retatrutide,60mg 10vials/kit,380.0,60.0,10,600.0,0.6333333333333333
+Jeep,Tirzepatide,5mg 10vials/kit,55.0,5.0,10,50.0,1.1
+Jeep,Tirzepatide,10mg 10vials/kit,78.0,10.0,10,100.0,0.78
+Jeep,Tirzepatide,15mg 10vials/kit,98.0,15.0,10,150.0,0.6533333333333333
+Jeep,Tirzepatide,20mg 10vials/kit,108.0,20.0,10,200.0,0.54
+Jeep,Tirzepatide,30mg 10vials/kit,138.0,30.0,10,300.0,0.46
+Jeep,Tirzepatide,40mg 10vials/kit,170.0,40.0,10,400.0,0.425
+Jeep,Tirzepatide,60mg 10vials/kit,250.0,60.0,10,600.0,0.4166666666666667
+Jeep,Tirzepatide,120mg 10vials/kit,450.0,120.0,10,1200.0,0.375
+Jeep,Sermorelin,5mg 10vials/kit,121.0,5.0,10,50.0,2.42
+Jeep,Sermorelin,10mg 10vials/kit,150.0,10.0,10,100.0,1.5
+Jeep,Tesamorelin,5mg 10vials/kit,88.0,5.0,10,50.0,1.76
+Jeep,Tesamorelin,10mg 10vials/kit,158.0,10.0,10,100.0,1.58
+Jeep,Cagrilintide,5mg 10vials/kit,110.0,5.0,10,50.0,2.2
+Jeep,Cagrilintide,10mg 10vials/kit,160.0,10.0,10,100.0,1.6
+Jeep,Mots-c,5mg 10vials/kit,75.0,5.0,10,50.0,1.5
+Jeep,Mots-c,40mg 10vials/kit,200.0,40.0,10,400.0,0.5
+Jeep,Semax,10mg 10vials/kit,65.0,10.0,10,100.0,0.65
+Jeep,Selank,10mg 10vials/kit,65.0,10.0,10,100.0,0.65
+Jeep,SLU-PP-332,5mg 10vials/kit,55.0,5.0,10,50.0,1.1
+Jeep,Epithalon,10mg 10vials/kit,55.0,10.0,10,100.0,0.55
+Jeep,SS31,10mg 10vials/kit,100.0,10.0,10,100.0,1.0
+Jeep,AOD-9604,5mg 10vials/kit,90.0,5.0,10,50.0,1.8
+Jeep,PT141,10mg 10vials/kit,70.0,10.0,10,100.0,0.7
+Jeep,Ipamorelin,5mg 10vials/kit,45.0,5.0,10,50.0,0.9
+Jeep,Ipamorelin,10mg 10vials/kit,75.0,10.0,10,100.0,0.75
+Jeep,snap8,10mg 10vials/kit,70.0,10.0,10,100.0,0.7
+Jeep,MT-1,10mg 10vials/kit,55.0,10.0,10,100.0,0.55
+Jeep,MT-2,10mg 10vials/kit,55.0,10.0,10,100.0,0.55
+Jeep,CJC 1295(NO DAC),5mg 10vials/kit,90.0,5.0,10,50.0,1.8
+Jeep,BB10 (TB5 + BPCS),10mg 10vials/kit,120.0,10.0,10,100.0,1.2
+Jeep,KPV,10mg 10vials/kit,55.0,10.0,10,100.0,0.55
+Jeep,BACwater,3ml 10vials/kit,10.0,,10,,
+Jeep,Kisspeptin,10mg 10vials/kit,80.0,10.0,10,100.0,0.8

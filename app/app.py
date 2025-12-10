@@ -45,7 +45,6 @@ def main():
         st.markdown("**Example CSV format:**")
         st.code(example_text, language="csv")
 
-
     # ---------- load base data ----------
     df = load_data()
 
@@ -445,19 +444,41 @@ def main():
             aggfunc="min",
         )
 
+        # drop vendors with no prices at all
         has_any = price_pivot.notna().any(axis=0)
         price_pivot = price_pivot.loc[:, has_any]
 
         if price_pivot.empty:
             st.info("No prices available for the selected peptides.")
         else:
-            vendor_totals = price_pivot.sum(axis=0, skipna=True)
+            # ---- completeness flag per vendor (has all selected peptides) ----
+            data_only = price_pivot  # no TOTAL row yet
+            vendor_complete = data_only.notna().all(axis=0)  # True = has all rows
 
-            ordered_vendors = vendor_totals.sort_values().index.tolist()
+            # totals for sorting
+            vendor_totals = data_only.sum(axis=0, skipna=True)
+
+            sort_df = pd.DataFrame(
+                {
+                    "vendor": vendor_totals.index,
+                    "total": vendor_totals.values,
+                    "complete": vendor_complete.reindex(vendor_totals.index).astype(int),
+                }
+            )
+
+            # complete vendors (1) first, then by total ascending
+            sort_df = sort_df.sort_values(
+                by=["complete", "total"],
+                ascending=[False, True],
+            )
+
+            ordered_vendors = sort_df["vendor"].tolist()
             price_pivot = price_pivot[ordered_vendors]
 
+            # start from numeric prices
             display_prices = price_pivot.reset_index()
 
+            # add TOTAL row (numeric)
             total_row = {"Peptide": "TOTAL", "Dose (mg/vial)": ""}
             for v in ordered_vendors:
                 total_row[v] = vendor_totals[v]
@@ -466,13 +487,69 @@ def main():
                 ignore_index=True,
             )
 
+            # ---------- per-row top-3 ranking with color coding (by unique price levels) ----------
+            def color_ranked_price(val, level):
+                if pd.isna(val):
+                    return ""
+                price_str = f"${val:,.2f}"
+
+                if level == 1:
+                    return f"🟩 {price_str}"   # cheapest
+                elif level == 2:
+                    return f"🟨 {price_str}"   # second-cheapest
+                elif level == 3:
+                    return f"🟦 {price_str}"   # third-cheapest
+                else:
+                    return price_str
+
+            for idx in display_prices.index:
+                # TOTAL row: just plain currency formatting, no ranking
+                if display_prices.loc[idx, "Peptide"] == "TOTAL":
+                    for v in ordered_vendors:
+                        val = display_prices.loc[idx, v]
+                        if pd.notna(val):
+                            display_prices.loc[idx, v] = f"${val:,.2f}"
+                        else:
+                            display_prices.loc[idx, v] = ""
+                    continue
+
+                # normal peptide rows
+                row_vals = display_prices.loc[idx, ordered_vendors]
+                numeric = pd.to_numeric(row_vals, errors="coerce")
+
+                valid = numeric.dropna()
+                if valid.empty:
+                    for v in ordered_vendors:
+                        display_prices.loc[idx, v] = ""
+                    continue
+
+                # unique price levels: 1 = cheapest, 2 = second, 3 = third
+                unique_prices = sorted(valid.unique())
+                price_to_level = {}
+                for level, price in enumerate(unique_prices[:3], start=1):
+                    price_to_level[price] = level
+
+                for v in ordered_vendors:
+                    val = numeric.get(v)
+                    level = price_to_level.get(val) if pd.notna(val) else None
+                    display_prices.loc[idx, v] = color_ranked_price(val, level)
+
+            # ---- add FULL / MISSING badges to column headers ----
+            badge_map = {}
             for v in ordered_vendors:
-                display_prices[v] = display_prices[v].apply(
-                    lambda x: f"${x:,.2f}" if pd.notna(x) else ""
-                )
+                if vendor_complete.get(v, False):
+                    badge_map[v] = f"{v} ✅ FULL"
+                else:
+                    badge_map[v] = f"{v} ⚠️ MISSING"
 
+            display_prices = display_prices.rename(columns=badge_map)
+
+            st.caption(
+                "✅ FULL = vendor has all selected peptides.  "
+                "⚠️ MISSING = at least one selected peptide is missing.  "
+                "🟩 cheapest, 🟨 second-cheapest, 🟦 third-cheapest per peptide."
+            )
             st.table(display_prices)
-
 
 if __name__ == "__main__":
     main()
