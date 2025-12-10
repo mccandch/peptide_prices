@@ -236,6 +236,14 @@ def main():
         default=vendors,
     )
 
+    # Single-vendor catalog view (independent of comparison filters)
+    catalog_vendor_options = ["(none)"] + vendors
+    selected_catalog_vendor = st.sidebar.selectbox(
+        "View full price list for vendor",
+        catalog_vendor_options,
+        index=0,
+    )
+
     only_with_ppm = st.sidebar.checkbox("Only show rows with price-per-mg", value=False)
 
     # ---------- apply filters ----------
@@ -550,6 +558,93 @@ def main():
                 "🟩 cheapest, 🟨 second-cheapest, 🟦 third-cheapest per peptide."
             )
             st.table(display_prices)
+
+    # ---------- Phase 3: full price list for a single vendor ----------
+    st.subheader("Full price list for a single vendor")
+
+    if "selected_catalog_vendor" in locals() and selected_catalog_vendor != "(none)":
+        vendor_df = df[df["vendor"] == selected_catalog_vendor].copy()
+
+        if vendor_df.empty:
+            st.info(f"No rows found for vendor {selected_catalog_vendor}.")
+        else:
+            vendor_grouped = (
+                vendor_df[
+                    [
+                        "canonical_peptide",
+                        "dose_mg_per_vial",
+                        "total_mg_per_kit",
+                        "price_usd",
+                        "price_per_mg",
+                    ]
+                ]
+                .dropna(subset=["dose_mg_per_vial"])
+                .groupby(
+                    ["canonical_peptide", "dose_mg_per_vial", "total_mg_per_kit"],
+                    as_index=False
+                )
+                .agg({"price_usd": "min", "price_per_mg": "min"})
+            )
+
+            if vendor_grouped.empty:
+                st.info(f"No priced peptides found for vendor {selected_catalog_vendor}.")
+            else:
+                vendor_grouped = vendor_grouped.sort_values(
+                    by=["canonical_peptide", "dose_mg_per_vial"]
+                )
+
+                vendor_display = vendor_grouped.rename(
+                    columns={
+                        "canonical_peptide": "Peptide",
+                        "dose_mg_per_vial": "Dose (mg/vial)",
+                        "total_mg_per_kit": "Total mg/kit",
+                        "price_usd": "Price (USD)",
+                        "price_per_mg": "Price per mg",
+                    }
+                )
+
+                # ✅ CLEAN FORMATTING — NO DECIMALS OR TRAILING ZEROS
+                vendor_display["Dose (mg/vial)"] = (
+                    vendor_display["Dose (mg/vial)"]
+                    .astype(float)
+                    .round(0)
+                    .astype(int)
+                    .astype(str)
+                )
+
+                vendor_display["Total mg/kit"] = (
+                    vendor_display["Total mg/kit"]
+                    .astype(float)
+                    .round(0)
+                    .astype(int)
+                    .astype(str)
+                )
+
+                vendor_display["Price (USD)"] = vendor_display["Price (USD)"].apply(
+                    lambda x: f"${x:,.2f}" if pd.notna(x) else ""
+                )
+
+                vendor_display["Price per mg"] = vendor_display["Price per mg"].apply(
+                    lambda x: f"${x:.3f}".rstrip("0").rstrip(".") if pd.notna(x) else ""
+                )
+
+                st.caption(f"Complete price list for vendor: {selected_catalog_vendor}")
+
+                # ✅ TIGHT COLUMNS USING st.dataframe INSTEAD OF st.table
+                st.dataframe(
+                    vendor_display,
+                    use_container_width=False,
+                    hide_index=True,
+                    column_config={
+                        "Peptide": st.column_config.TextColumn(width="medium"),
+                        "Dose (mg/vial)": st.column_config.TextColumn(width="small"),
+                        "Total mg/kit": st.column_config.TextColumn(width="small"),
+                        "Price (USD)": st.column_config.TextColumn(width="small"),
+                        "Price per mg": st.column_config.TextColumn(width="small"),
+                    },
+                )
+    else:
+        st.info("Select a vendor in the sidebar to view its full price list.")
 
 if __name__ == "__main__":
     main()
